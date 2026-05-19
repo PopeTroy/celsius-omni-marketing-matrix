@@ -1,0 +1,44 @@
+name: ⚡ [Matrix] Run Campaign Broadcast
+
+on:
+  workflow_dispatch:
+    inputs:
+      email_subject:
+        description: 'Email Subject Line'
+        required: true
+        default: 'Sovereign Enterprise System Optimization Update'
+      preview_text:
+        description: 'Inbox Preview Snippet Header'
+        required: true
+        default: 'Opening transmission vector via Celsius Omni-Stack Engine...'
+      preview_image_url:
+        description: 'Header Layout Image Asset Link (.webp/.jpg)'
+        required: true
+        default: 'https://celsiusmediagroup.co.za/assets/banner.webp'
+      target_segment_tag:
+        description: 'Target Filter Tag Group (Matches contact list tags)'
+        required: true
+        default: 'General'
+
+jobs:
+  execute-broadcast:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Clone Workspace Repository
+      uses: actions/checkout@v4
+
+    - name: Setup System Core Environment
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Run Matrix Core Computations
+      env:
+        GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        NVIDIA_NIM_KEY: ${{ secrets.NVIDIA_NIM_KEY }}
+        CAMPAIGN_SUBJECT: ${{ github.event.inputs.email_subject }}
+        CAMPAIGN_PREVIEW: ${{ github.event.inputs.preview_text }}
+        CAMPAIGN_IMAGE: ${{ github.event.inputs.preview_image_url }}
+        TARGET_TAG: ${{ github.event.inputs.target_segment_tag }}
+      run: |
+        python main.py
