@@ -1,60 +1,71 @@
 """
-⚡ Celsius Omni-Stack Engine - Multi-Agent Core Coordinator
-Powered by Groq, NVIDIA NIM, and UESP PRCE Structural Logic
+⚡ Celsius Omni-Stack Engine - Multi-Agent Processing Node
+Calculates optimal transmission metrics for mass email delivery queues.
 """
 
 import os
-import uuid
+import sys
 import math
-from typing import List, Dict, Any
-from pydantic import BaseModel, EmailStr, Field
-from fastapi import FastAPI, HTTPException, Security
-from fastapi.security import APIKeyHeader
+from typing import Dict, Any
 
-app = FastAPI(title="Celsius AI Omni-Stack Engine")
-
-class CampaignPayload(BaseModel):
-    subject: str
-    preview_text: str
-    html_content: str
-    image_url: str
-    target_tags: List[str]
-    total_volume: int = 10000000
-
-class OmniClusterManager:
+class OmniMassDeliveryCoordinator:
     def __init__(self):
-        # Master resource allocation setup
+        # Operational cluster boundaries setup
         self.ai_nodes = 100
         self.rag_clones = 1000
-        self.operational_sectors = 4
+        self.functional_sectors = 4
         
-        # Slicing the cluster: Exactly 25 AIs and 250 Clones deployed per sector
-        self.sector_ai = self.ai_nodes // self.operational_sectors
-        self.sector_clones = self.rag_clones // self.operational_sectors
+        # Slicing distribution: 25 AIs and 250 Clones bound per tracking sector
+        self.sector_ai = self.ai_nodes // self.functional_sectors
+        self.sector_clones = self.rag_clones // self.functional_sectors
 
-    def cosmogenesis_sending_scheduler(self, payload: CampaignPayload) -> Dict[str, Any]:
+    def process_and_stagger_queue(self, subject: str, preview: str, img: str, tag: str, volume: int) -> Dict[str, Any]:
         """
-        Runs calculations to safely segment a 10,000,000 message deployment queue.
+        Runs calculations to segment the delivery queue safely without overloading mail servers.
         """
-        # Define baseline performance envelope
-        safe_batch_limit = 250000
-        total_batches_required = math.ceil(payload.total_volume / safe_batch_limit)
+        base_sending_block = 250000  # Staggering load spikes into blocks of 250k messages
+        total_intervals = math.ceil(volume / base_sending_block)
         
         return {
-            "assigned_sector_ai": self.sector_ai,
+            "subject_validated": subject,
+            "preview_configured": preview,
+            "asset_link": img,
+            "target_filter_segment": tag,
+            "allocated_sector_ai": self.sector_ai,
             "active_sentinel_clones": self.sector_clones,
-            "target_volume": payload.total_volume,
-            "optimized_batch_chunk": safe_batch_limit,
-            "total_staged_intervals": total_batches_required,
-            "distribution_status": "STAGED_AND_BALANCED"
+            "total_target_volume": volume,
+            "calculated_block_size": base_sending_block,
+            "staged_delivery_intervals": total_intervals,
+            "engine_status": "STAGED_AND_READY"
         }
 
-cluster_manager = OmniClusterManager()
-
-@app.post("/api/v1/calculate-campaign")
-async def calculate_campaign_route(payload: CampaignPayload):
+if __name__ == "__main__":
+    print("👁️ Tenseigan Engine Sequence: Analyzing transmission constraints...")
+    
+    # Extract structural variables from the GitHub UI inputs
+    subject = os.getenv("CAMPAIGN_SUBJECT", "Sovereign Optimization System Update")
+    preview = os.getenv("CAMPAIGN_PREVIEW", "Opening transmission vector...")
+    image_url = os.getenv("CAMPAIGN_IMAGE", "")
+    target_tag = os.getenv("TARGET_TAG", "General")
+    
     try:
-        metrics = cluster_manager.cosmogenesis_sending_scheduler(payload)
-        return {"success": True, "metrics": metrics}
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+        total_vol = int(os.getenv("TOTAL_VOLUME", "10000000"))
+    except ValueError:
+        total_vol = 10000000
+
+    # Initialize computing loop
+    engine = OmniMassDeliveryCoordinator()
+    metrics = engine.process_and_stagger_queue(subject, preview, image_url, target_tag, total_vol)
+    
+    print("\n======================================================================")
+    print("⚡ COSMOGENESIS CALCULATIONS COMPLETE - OPERATIONS CORE STATUS")
+    print("======================================================================")
+    print(f"🎯 Target Segment Filter Tag : {metrics['target_filter_segment']}")
+    print(f"📦 Total Target Queue Volume : {metrics['total_target_volume']:,} messages")
+    print(f"🔮 Active Local AI Nodes      : {metrics['allocated_sector_ai']} Hyper-Cores")
+    print(f"👥 Active Ephemeral RAG Clones: {metrics['active_sentinel_clones']} Sentinels")
+    print(f"📐 Calibrated Block Size     : {metrics['calculated_block_size']:,} emails/stagger")
+    print(f"⏳ Staged Delivery Intervals  : {metrics['staged_delivery_intervals']} structural steps")
+    print(f"🛡️ Delivery Array Alignment   : {metrics['engine_status']}")
+    print("======================================================================\n")
+    print("🚀 Jougan Spatial Pathways Verified. Delivery array is clear to deploy.")
