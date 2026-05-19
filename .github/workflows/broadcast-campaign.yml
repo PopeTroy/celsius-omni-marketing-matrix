@@ -34,8 +34,14 @@ jobs:
 
     - name: Run Matrix Core Computations
       env:
-        GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-        NVIDIA_NIM_KEY: ${{ secrets.NVIDIA_NIM_KEY }}
+        # SMTP Server Authentication Passwords mapped directly to Secrets
+        SMTP_HOST: ${{ secrets.SMTP_HOST }}
+        SMTP_PORT: ${{ secrets.SMTP_PORT }}
+        SMTP_USER: ${{ secrets.SMTP_USER }}
+        SMTP_PASS: ${{ secrets.SMTP_PASS }}
+        SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+        
+        # User input hooks
         CAMPAIGN_SUBJECT: ${{ github.event.inputs.email_subject }}
         CAMPAIGN_PREVIEW: ${{ github.event.inputs.preview_text }}
         CAMPAIGN_IMAGE: ${{ github.event.inputs.preview_image_url }}
