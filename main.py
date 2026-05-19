@@ -103,6 +103,7 @@ class OmniActionBroadcaster:
 
         global_counter = 0
 
+        # Loop through data arrays using chunks
         for batch_index in range(total_batches):
             start_offset = batch_index * self.batch_chunk_size
             end_offset = start_offset + self.batch_chunk_size
@@ -111,6 +112,7 @@ class OmniActionBroadcaster:
             print(f"\n📦 Wave [{batch_index + 1}/{total_batches}] Spinning Up — Processing contacts index range {start_offset} to {end_offset}...")
             
             try:
+                # Open an explicit mail session channel for this batch wave
                 if port == "465":
                     server = smtplib.SMTP_SSL(host, int(port))
                 else:
@@ -138,15 +140,19 @@ class OmniActionBroadcaster:
                     msg.attach(MIMEText(preview, 'plain'))
                     msg.attach(MIMEText(html_message, 'html'))
 
+                    # Push individual email out
                     server.sendmail(sender, [email], msg.as_string())
                     global_counter += 1
                     print(f"   🚀 [{global_counter}] Sent -> {email}")
 
+                    # ⏱️ Micro-pause to maintain healthy transit intervals
                     time.sleep(self.individual_delay)
 
+                # Gracefully close session at the end of the current batch block
                 server.quit()
                 print(f"✅ Wave {batch_index + 1} processing concluded successfully.")
 
+                # 🛑 Macro-cooldown rest loop (Skip if it's the absolute final batch)
                 if batch_index < total_batches - 1:
                     print(f"⏳ Cooling down for {self.batch_cooldown_delay} seconds to safeguard IP health parameters...")
                     time.sleep(self.batch_cooldown_delay)
