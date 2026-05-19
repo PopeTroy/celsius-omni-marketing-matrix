@@ -26,6 +26,10 @@ on:
         description: 'CSV Paste: Raw CSV content (Must include email, name, tags columns)'
         required: false
 
+# Crucial: Give the automatic GITHUB_TOKEN explicit authority to commit data back to your repo
+permissions:
+  contents: write
+
 jobs:
   update-database:
     runs-on: ubuntu-latest
@@ -33,7 +37,7 @@ jobs:
     - name: Clone Repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.PAT_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }} # Bypasses custom token requirements completely
 
     - name: Initialize Python Runtime
       uses: actions/setup-python@v5
@@ -80,7 +84,6 @@ jobs:
             f = io.StringIO(csv_raw.strip())
             reader = csv.DictReader(f)
             
-            # Normalize headers to lowercase to handle variations
             headers = {k.lower(): k for k in reader.fieldnames} if reader.fieldnames else {}
             email_key = headers.get('email') or headers.get('email address')
             name_key = headers.get('name') or headers.get('first name')
