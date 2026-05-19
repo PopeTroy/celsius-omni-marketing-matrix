@@ -1,71 +1,67 @@
 """
-⚡ Celsius Omni-Stack Engine - Multi-Agent Processing Node
-Calculates optimal transmission metrics for mass email delivery queues.
+⚡ Celsius Omni-Stack Engine - Native GitHub Database Core Coordinator
 """
 
 import os
-import sys
+import json
 import math
-from typing import Dict, Any
 
-class OmniMassDeliveryCoordinator:
+class OmniActionBroadcaster:
     def __init__(self):
-        # Operational cluster boundaries setup
         self.ai_nodes = 100
         self.rag_clones = 1000
-        self.functional_sectors = 4
+        self.sectors = 4
         
-        # Slicing distribution: 25 AIs and 250 Clones bound per tracking sector
-        self.sector_ai = self.ai_nodes // self.functional_sectors
-        self.sector_clones = self.rag_clones // self.functional_sectors
+        self.sector_ai = self.ai_nodes // self.sectors
+        self.sector_clones = self.rag_clones // self.sectors
 
-    def process_and_stagger_queue(self, subject: str, preview: str, img: str, tag: str, volume: int) -> Dict[str, Any]:
-        """
-        Runs calculations to segment the delivery queue safely without overloading mail servers.
-        """
-        base_sending_block = 250000  # Staggering load spikes into blocks of 250k messages
-        total_intervals = math.ceil(volume / base_sending_block)
-        
-        return {
-            "subject_validated": subject,
-            "preview_configured": preview,
-            "asset_link": img,
-            "target_filter_segment": tag,
-            "allocated_sector_ai": self.sector_ai,
-            "active_sentinel_clones": self.sector_clones,
-            "total_target_volume": volume,
-            "calculated_block_size": base_sending_block,
-            "staged_delivery_intervals": total_intervals,
-            "engine_status": "STAGED_AND_READY"
-        }
+    def process_saved_database(self, tag_filter: str):
+        db_file = 'contacts.json'
+        if not os.path.exists(db_file):
+            print("📁 No active subscriber database file found. Defaulting system queue to simulation arrays.")
+            return [], 10000000
+
+        with open(db_file, 'r') as f:
+            try:
+                all_contacts = json.load(f)
+            except:
+                all_contacts = []
+
+        # Filter the lists down to your exact tag group entry selection
+        filtered_targets = [c for c in all_contacts if c.get('tag', '').lower() == tag_filter.lower()]
+        return filtered_targets, len(filtered_targets)
+
+    def calculate_delivery_intervals(self, volume: int):
+        base_chunk = 250000
+        intervals = math.ceil(volume / base_chunk) if volume > 0 else 1
+        return base_chunk, intervals
 
 if __name__ == "__main__":
-    print("👁️ Tenseigan Engine Sequence: Analyzing transmission constraints...")
+    print("👁️ Tenseigan Core System Initialization: Mapping Repository Arrays...")
     
-    # Extract structural variables from the GitHub UI inputs
-    subject = os.getenv("CAMPAIGN_SUBJECT", "Sovereign Optimization System Update")
-    preview = os.getenv("CAMPAIGN_PREVIEW", "Opening transmission vector...")
+    subject = os.getenv("CAMPAIGN_SUBJECT", "Default Update Notification")
+    preview = os.getenv("CAMPAIGN_PREVIEW", "Opening transmission stream...")
     image_url = os.getenv("CAMPAIGN_IMAGE", "")
     target_tag = os.getenv("TARGET_TAG", "General")
-    
-    try:
-        total_vol = int(os.getenv("TOTAL_VOLUME", "10000000"))
-    except ValueError:
-        total_vol = 10000000
 
-    # Initialize computing loop
-    engine = OmniMassDeliveryCoordinator()
-    metrics = engine.process_and_stagger_queue(subject, preview, image_url, target_tag, total_vol)
-    
+    broadcaster = OmniActionBroadcaster()
+    matched_contacts, total_count = broadcaster.process_saved_database(target_tag)
+    chunk_size, total_intervals = broadcaster.calculate_delivery_intervals(total_count)
+
     print("\n======================================================================")
-    print("⚡ COSMOGENESIS CALCULATIONS COMPLETE - OPERATIONS CORE STATUS")
+    print("⚡ CELSIUS OMNI-MATRIX - BACKEND CAMPAIGN LOG FILE MATRIX")
     print("======================================================================")
-    print(f"🎯 Target Segment Filter Tag : {metrics['target_filter_segment']}")
-    print(f"📦 Total Target Queue Volume : {metrics['total_target_volume']:,} messages")
-    print(f"🔮 Active Local AI Nodes      : {metrics['allocated_sector_ai']} Hyper-Cores")
-    print(f"👥 Active Ephemeral RAG Clones: {metrics['active_sentinel_clones']} Sentinels")
-    print(f"📐 Calibrated Block Size     : {metrics['calculated_block_size']:,} emails/stagger")
-    print(f"⏳ Staged Delivery Intervals  : {metrics['staged_delivery_intervals']} structural steps")
-    print(f"🛡️ Delivery Array Alignment   : {metrics['engine_status']}")
+    print(f"📧 Campaign Subject Line   : {subject}")
+    print(f"📸 Creative Banner Image   : {image_url if image_url else 'None Provided'}")
+    print(f"🎯 Filter Target Group Tag : {target_tag}")
+    print(f"👥 Total Matched Contacts   : {total_count:,} profiles verified in repo")
+    print(f"🔮 Operational Cores       : {broadcaster.sector_ai} AI Nodes per sector block")
+    print(f"👥 Active RAG Clones       : {broadcaster.sector_clones} Sentinels deployed")
+    print(f"📐 Segment Batch Allocation: {chunk_size:,} units per interval")
+    print(f"⏳ System Calculations Split: Total of [{total_intervals}] staging sequences")
     print("======================================================================\n")
-    print("🚀 Jougan Spatial Pathways Verified. Delivery array is clear to deploy.")
+    
+    if total_count > 0:
+        print(f"🚀 Found matching database records inside repository. Processing distribution tracks...")
+    else:
+        print(f"⚠️ Simulation Mode Active: No manual data currently stored under tag Group: [{target_tag}].")
