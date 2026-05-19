@@ -1,6 +1,7 @@
 """
 ⚡ Celsius Omni-Stack Engine - Staggered Micro-Batch 10M Transmission Matrix
 Handles high-volume queues smoothly using legal delays and server protection blocks.
+Allows flexible profile attributes (sends successfully even without names).
 """
 
 import os
@@ -42,7 +43,7 @@ class OmniActionBroadcaster:
         if li:
             social_elements += f'<td><a href="{li}" style="color:#a855f7; text-decoration:none; font-weight:bold; margin:0 10px; font-size:13px;">LinkedIn</a></td>'
 
-        unsubscribe_url = f"https://celsiustechmediagroup.co.za/unsubscribe?email={recipient_email}"
+        unsubscribe_url = f"https://celsiusmediagroup.co.za/unsubscribe?email={recipient_email}"
 
         return f"""
         <!DOCTYPE html>
@@ -73,7 +74,7 @@ class OmniActionBroadcaster:
                         </table>
                         <p style="margin:0 0 12px 0; font-size:12px; color:#64748b; line-height:1.6;">
                             <strong>Celsius Technology & Media Group</strong><br>
-                            Kempton Park, Gauteng, South Africa, All Rights Reserved ©<br>
+                            Kempton Park, Gauteng, South Africa<br>
                         </p>
                         <p style="margin:0; font-size:11px; color:#94a3b8;">
                             Refused connection preferences? <a href="{unsubscribe_url}" style="color:#6a0dad; text-decoration:underline; font-weight:bold;">Unsubscribe instantly from this list</a>.
@@ -103,7 +104,6 @@ class OmniActionBroadcaster:
 
         global_counter = 0
 
-        # Loop through data arrays using chunks
         for batch_index in range(total_batches):
             start_offset = batch_index * self.batch_chunk_size
             end_offset = start_offset + self.batch_chunk_size
@@ -112,7 +112,6 @@ class OmniActionBroadcaster:
             print(f"\n📦 Wave [{batch_index + 1}/{total_batches}] Spinning Up — Processing contacts index range {start_offset} to {end_offset}...")
             
             try:
-                # Open an explicit mail session channel for this batch wave
                 if port == "465":
                     server = smtplib.SMTP_SSL(host, int(port))
                 else:
@@ -123,7 +122,11 @@ class OmniActionBroadcaster:
 
                 for contact in current_batch:
                     email = contact.get('email')
-                    name = contact.get('name', 'Subscriber')
+                    
+                    # Fix: Handle empty, missing, or falsy names by providing a clean fallback string
+                    name = contact.get('name', '').strip()
+                    if not name:
+                        name = "Valued Subscriber"
 
                     if not email or '@' not in email:
                         continue
@@ -140,19 +143,16 @@ class OmniActionBroadcaster:
                     msg.attach(MIMEText(preview, 'plain'))
                     msg.attach(MIMEText(html_message, 'html'))
 
-                    # Push individual email out
+                    # Push email to the secure SMTP queue
                     server.sendmail(sender, [email], msg.as_string())
                     global_counter += 1
-                    print(f"   🚀 [{global_counter}] Sent -> {email}")
+                    print(f"   🚀 [{global_counter}] Sent -> {email} ({name})")
 
-                    # ⏱️ Micro-pause to maintain healthy transit intervals
                     time.sleep(self.individual_delay)
 
-                # Gracefully close session at the end of the current batch block
                 server.quit()
                 print(f"✅ Wave {batch_index + 1} processing concluded successfully.")
 
-                # 🛑 Macro-cooldown rest loop (Skip if it's the absolute final batch)
                 if batch_index < total_batches - 1:
                     print(f"⏳ Cooling down for {self.batch_cooldown_delay} seconds to safeguard IP health parameters...")
                     time.sleep(self.batch_cooldown_delay)
