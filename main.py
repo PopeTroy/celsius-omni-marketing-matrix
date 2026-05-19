@@ -103,6 +103,81 @@ class OmniActionBroadcaster:
 
         global_counter = 0
 
+        for batch_index in range(total_batches):
+            start_offset = batch_index * self.batch_chunk_size
+            end_offset = start_offset + self.batch_chunk_size
+            current_batch = recipients[start_offset:end_offset]
+
+            print(f"\n📦 Wave [{batch_index + 1}/{total_batches}] Spinning Up — Processing contacts index range {start_offset} to {end_offset}...")
+            
+            try:
+                if port == "465":
+                    server = smtplib.SMTP_SSL(host, int(port))
+                else:
+                    server = smtplib.SMTP(host, int(port))
+                    server.starttls()
+                    
+                server.login(user, password)
+
+                for contact in current_batch:
+                    email = contact.get('email')
+                    name = contact.get('name', 'Subscriber')
+
+                    if not email or '@' not in email:
+                        continue
+
+                    msg = MIMEMultipart('alternative')
+                    msg['Subject'] = subject
+                    msg['From'] = f"Celsius AI <{sender}>"
+                    msg['To'] = f"{name} <{email}>"
+                    
+                    unsubscribe_url = f"https://celsiusmediagroup.co.za/unsubscribe?email={email}"
+                    msg['List-Unsubscribe'] = f"<{unsubscribe_url}>"
+
+                    html_message = self.construct_compliant_html(subject, preview, img_url, body_text, fb, li, email)
+                    msg.attach(MIMEText(preview, 'plain'))
+                    msg.attach(MIMEText(html_message, 'html'))
+
+                    server.sendmail(sender, [email], msg.as_string())
+                    global_counter += 1
+                    print(f"   🚀 [{global_counter}] Sent -> {email}")
+
+                    time.sleep(self.individual_delay)
+
+                server.quit()
+                print(f"✅ Wave {batch_index + 1} processing concluded successfully.")
+
+                if batch_index < total_batches - 1:
+                    print(f"⏳ Cooling down for {self.batch_cooldown_delay} seconds to safeguard IP health parameters...")
+                    time.sleep(self.batch_cooldown_delay)
+
+            except Exception as e:
+                print(f"🚨 Connection lost or reset mid-transit on wave {batch_index + 1}: {str(e)}")
+                print("⏳ Resting system for 30 seconds before trying next wave chunk...")
+                time.sleep(30)
+                continue
+
+        print(f"\n⚡ Master Engine Complete: Broadcast processed. Total safe deliveries: [{global_counter}] records reached.")
+        return True
+
+if __name__ == "__main__":
+    subject = os.getenv("CAMPAIGN_SUBJECT", "")
+    preview = os.getenv("CAMPAIGN_PREVIEW", "")
+    image_url = os.getenv("CAMPAIGN_IMAGE", "")
+    body_text = os.getenv("CAMPAIGN_BODY", "")
+    target_tag = os.getenv("TARGET_TAG", "General")
+    fb_url = os.getenv("LINK_FB", "")
+    li_url = os.getenv("LINK_LI", "")
+
+    broadcaster = OmniActionBroadcaster()
+    matched_contacts = broadcaster.process_saved_database(target_tag)
+
+    if len(matched_contacts) > 0:
+        broadcaster.broadcast_in_staggered_waves(matched_contacts, subject, preview, image_url, body_text, fb_url, li_url)
+    else:
+        print(f"⚠️ Safe-Stop: Zero contacts match filter: [{target_tag}].")
+        global_counter = 0
+
         # Loop through data arrays using chunks
         for batch_index in range(total_batches):
             start_offset = batch_index * self.batch_chunk_size
