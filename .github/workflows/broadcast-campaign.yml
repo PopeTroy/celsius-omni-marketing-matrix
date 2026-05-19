@@ -8,17 +8,29 @@ on:
         required: true
         default: 'Sovereign Enterprise System Optimization Update'
       preview_text:
-        description: 'Inbox Preview Snippet Header'
+        description: 'Inbox Preview Snippet (Visible next to subject in inbox)'
         required: true
         default: 'Opening transmission vector via Celsius Omni-Stack Engine...'
-      preview_image_url:
-        description: 'Header Layout Image Asset Link (.webp/.jpg)'
+      header_image_url:
+        description: 'Header Banner Graphic Link (.webp/.jpg — 1200x630px recommended)'
         required: true
         default: 'https://celsiusmediagroup.co.za/assets/banner.webp'
+      email_body_text:
+        description: 'Main Body Text Content (Use <br> for line breaks, basic HTML tags supported)'
+        required: true
+        default: 'We are pleased to announce the successful calibration of our decentralized serverless infrastructure array. The distribution nodes are fully synchronized.'
       target_segment_tag:
         description: 'Target Filter Tag Group (Matches contact list tags)'
         required: true
         default: 'General'
+      facebook_link:
+        description: 'Footer: Facebook Profile/Page URL'
+        required: false
+        default: 'https://facebook.com/celsiusmediagroup'
+      linkedin_link:
+        description: 'Footer: LinkedIn Corporate URL'
+        required: false
+        default: 'https://linkedin.com/company/celsiusmediagroup'
 
 jobs:
   execute-broadcast:
@@ -41,10 +53,13 @@ jobs:
         SMTP_PASS: ${{ secrets.SMTP_PASS }}
         SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
         
-        # User input hooks
+        # User input hooks from GitHub UI Panel
         CAMPAIGN_SUBJECT: ${{ github.event.inputs.email_subject }}
         CAMPAIGN_PREVIEW: ${{ github.event.inputs.preview_text }}
-        CAMPAIGN_IMAGE: ${{ github.event.inputs.preview_image_url }}
+        CAMPAIGN_IMAGE: ${{ github.event.inputs.header_image_url }}
+        CAMPAIGN_BODY: ${{ github.event.inputs.email_body_text }}
         TARGET_TAG: ${{ github.event.inputs.target_segment_tag }}
+        LINK_FB: ${{ github.event.inputs.facebook_link }}
+        LINK_LI: ${{ github.event.inputs.linkedin_link }}
       run: |
         python main.py
