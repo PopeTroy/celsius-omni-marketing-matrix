@@ -1,30 +1,57 @@
-name: Celsius Omni-Engine Sync
+name: ⚡ Celsius Omni-Matrix MailChimp Broadcast Engine
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  workflow_dispatch:
+    inputs:
+      email_subject:
+        description: 'Email Subject String (e.g., Quantum Structural Diagnostic Report)'
+        required: true
+        default: 'Sovereign Enterprise System Optimization Update'
+      preview_text:
+        description: 'Inbox Preview Text Hook (Summary snippet)'
+        required: true
+        default: 'Opening transmission vector via Celsius Omni-Stack Engine...'
+      preview_image_url:
+        description: 'Header Graphic Asset Link (.webp / .jpg — 1200x630px recommended)'
+        required: true
+        default: 'https://celsiusmediagroup.co.za/assets/banner.webp'
+      target_segment_tag:
+        description: 'Target Subscriber Group Tag Filter (e.g., General, Corporate, Scraped_Google)'
+        required: true
+        default: 'General'
+      batch_distribution_limit:
+        description: 'Total Target Queue Transmission Limit Constraints'
+        required: true
+        default: '10000000'
 
 jobs:
-  build-and-verify:
+  dispatch-parallel-clusters:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Clone Source Code
+    - name: Access Repository Workspace
       uses: actions/checkout@v4
 
-    - name: Load Python Runtime
+    - name: Initialize Isolated Python Environment
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
         cache: 'pip'
 
-    - name: Bind System Dependencies
+    - name: Bind Core Operational Dependencies
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-    - name: Run Operational Diagnostics
+    - name: Execute Mass Delivery Processing
+      env:
+        GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        NVIDIA_NIM_KEY: ${{ secrets.NVIDIA_NIM_KEY }}
+        # Setting input values as system variables for Python processing
+        CAMPAIGN_SUBJECT: ${{ github.event.inputs.email_subject }}
+        CAMPAIGN_PREVIEW: ${{ github.event.inputs.preview_text }}
+        CAMPAIGN_IMAGE: ${{ github.event.inputs.preview_image_url }}
+        TARGET_TAG: ${{ github.event.inputs.target_segment_tag }}
+        TOTAL_VOLUME: ${{ github.event.inputs.batch_distribution_limit }}
       run: |
-        echo "👁️ System Status: Parallel processing arrays cleared for action."
+        python main.py
