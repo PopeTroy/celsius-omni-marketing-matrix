@@ -42,7 +42,7 @@ class OmniActionBroadcaster:
         if li:
             social_elements += f'<td><a href="{li}" style="color:#a855f7; text-decoration:none; font-weight:bold; margin:0 10px; font-size:13px;">LinkedIn</a></td>'
 
-        unsubscribe_url = f"https://celsiusmediagroup.co.za/unsubscribe?email={recipient_email}"
+        unsubscribe_url = f"https://celsiustechmediagroup.co.za/unsubscribe?email={recipient_email}"
 
         return f"""
         <!DOCTYPE html>
@@ -73,7 +73,7 @@ class OmniActionBroadcaster:
                         </table>
                         <p style="margin:0 0 12px 0; font-size:12px; color:#64748b; line-height:1.6;">
                             <strong>Celsius Technology & Media Group</strong><br>
-                            Kempton Park, Gauteng, South Africa<br>
+                            Kempton Park, Gauteng, South Africa, All Rights Reserved ©<br>
                         </p>
                         <p style="margin:0; font-size:11px; color:#94a3b8;">
                             Refused connection preferences? <a href="{unsubscribe_url}" style="color:#6a0dad; text-decoration:underline; font-weight:bold;">Unsubscribe instantly from this list</a>.
