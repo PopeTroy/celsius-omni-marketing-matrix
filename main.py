@@ -119,7 +119,7 @@ class GodTierMatrixBroadcaster:
             msg['Subject'] = subject
             msg['From'] = f"Celsius System Node <{sender}>"
             msg['To'] = f"{name} <{email}>"
-            msg['List-Unsubscribe'] = f"<https://celsiusmediagroup.co.za/unsubscribe?email={email}>"
+            msg['List-Unsubscribe'] = f"<https://celsiustechmediagroup.co.za/policies-2?email={email}>"
 
             html_layout = self.construct_premium_html(subject, body_text, img_url, fb, li, email)
             msg.attach(MIMEText(body_text, 'plain'))
