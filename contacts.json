@@ -18,5 +18,10 @@
         "name": "Sales team at CTMG",
         "email": "sales@celsiustechmediagroup.co.za",
         "tag": "General"
+    },
+    {
+        "name": "Info Celsius",
+        "email": "info@celsiustechmediagroup.co.za",
+        "tag": "General"
     }
 ]
