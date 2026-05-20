@@ -3,6 +3,7 @@
 Protocols Deployed: 
 - Daikokuten (Memory Caching)          - Jōgan & Rinnegan (Format Validation)
 - Hiraishin (Parallel Worker Swarms)   - Izanagi (State Recovery)
+- Mailto Automation (Instant Opt-Out Template Routing)
 """
 
 import os
@@ -10,6 +11,7 @@ import json
 import time
 import math
 import re
+import urllib.parse
 import smtplib
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from email.mime.multipart import MIMEMultipart
@@ -29,36 +31,40 @@ class GodTierMatrixBroadcaster:
         self.email_regex = re.compile(r"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$")
 
     def process_saved_database(self, tag_filter: str):
-        """
-        🕋 DAIKOKUTEN LOGIC: High-velocity data caching mechanism.
-        """
         if not os.path.exists(self.db_file):
             print("📁 No active subscriber database file found.")
             return []
 
         with open(self.db_file, 'r', encoding='utf-8') as f:
             try:
-                # Store data in virtual memory for rapid iteration
                 all_contacts = json.load(f)
             except Exception as e:
                 print(f"⚠️ Failed to decode database file: {str(e)}")
                 all_contacts = []
 
-        # Filter down instantly in memory
         return [c for c in all_contacts if c.get('tag', '').lower() == tag_filter.lower()]
 
     def validate_node_path(self, email: str) -> bool:
-        """
-        🧿 JŌGAN & RINNEGAN: Scans path structures to remove anomalies.
-        """
         if not email:
             return False
         return bool(self.email_regex.match(email))
 
     def construct_premium_html(self, subject: str, body_text: str, img_url: str, fb: str, li: str, recipient_email: str) -> str:
         banner_img = img_url if img_url else "https://celsiusmediagroup.co.za/assets/banner.webp"
-        unsubscribe_url = f"https://celsiusmediagroup.co.za/unsubscribe?email={recipient_email}"
         
+        # ✉️ AUTOMATED MAILTO GENERATION MATRIX
+        target_inbox = "info@celsiustechmediagroup.co.za"
+        email_subject = "Unsubscribe Request"
+        email_body_template = f"Dear, Celsius Technology & Media Group\n\nPlease unsubscribe {recipient_email} from marketing list so that I know to remove it."
+        
+        # Safely encode text characters into clean network parameters
+        encoded_subject = urllib.parse.quote(email_subject)
+        encoded_body = urllib.parse.quote(email_body_template)
+        
+        # Synthesize final operational link paths
+        instant_mailto_url = f"mailto:{target_inbox}?subject={encoded_subject}&body={encoded_body}"
+        web_support_url = "https://www.celsiustechmediagroup.co.za"
+
         social_elements = ""
         if fb: 
             social_elements += f'<td><a href="{fb}" style="color:#a855f7; text-decoration:none; font-weight:bold; margin:0 10px; font-size:13px;">Facebook</a></td>'
@@ -76,10 +82,19 @@ class GodTierMatrixBroadcaster:
                     <h2 style="font-size:24px; color:#0f172a; margin-top:0; margin-bottom:18px;">{subject}</h2>
                     <p style="color:#475569;">{body_text}</p>
                 </td></tr>
+                
                 <tr><td style="padding:35px 40px; background-color:#f8fafc; border-top:1px solid #e2e8f0; text-align:center;">
                     <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto 15px auto;"><tr>{social_elements}</tr></table>
-                    <p style="margin:0; font-size:12px; color:#64748b;"><strong>Celsius Technology & Media Group</strong><br>Kempton Park, Gauteng, South Africa</p>
-                    <p style="margin:10px 0 0 0; font-size:11px;"><a href="{unsubscribe_url}" style="color:#6a0dad; text-decoration:underline;">Unsubscribe from this channel</a></p>
+                    <p style="margin:0; font-size:12px; color:#64748b; line-height:1.5;"><strong>Celsius Technology & Media Group</strong><br>Kempton Park, Gauteng, South Africa</p>
+                    
+                    <hr style="border:0; border-top:1px dashed #e2e8f0; margin:20px 0;">
+                    
+                    <p style="margin:0; font-size:11px; color:#94a3b8; line-height:1.6;">
+                        Want out of this channel? <a href="{instant_mailto_url}" style="color:#a855f7; text-decoration:underline; font-weight:bold;">Click here to unsubscribe instantly via email</a>.
+                    </p>
+                    <p style="margin:5px 0 0 0; font-size:11px; color:#94a3b8;">
+                        Alternatively, visit our website and use the support functionality at <a href="{web_support_url}" style="color:#a855f7; text-decoration:underline;">celsiustechmediagroup.co.za</a>.
+                    </p>
                 </td></tr>
             </table>
         </body>
@@ -87,15 +102,11 @@ class GodTierMatrixBroadcaster:
         """
 
     def hiraishin_transport_node(self, contact: dict, subject: str, body_text: str, img_url: str, fb: str, li: str) -> str:
-        """
-        ⚡ HIRAISHIN NO JUTSU: Instantaneous Transport Execution via Sub-Worker Threads
-        """
         email = contact.get('email', '').strip()
         name = contact.get('name', '').strip()
         if not name:
             name = "Valued Subscriber"
 
-        # 🧿 Rinnegan structural clean check
         if not self.validate_node_path(email):
             print(f"   ❌ [Rinnegan Cleanse] Dropped corrupted structural address: {email if email else 'Blank'}")
             return None
@@ -119,7 +130,9 @@ class GodTierMatrixBroadcaster:
             msg['Subject'] = subject
             msg['From'] = f"Celsius System Node <{sender}>"
             msg['To'] = f"{name} <{email}>"
-            msg['List-Unsubscribe'] = f"<https://celsiustechmediagroup.co.za/policies-2?email={email}>"
+            
+            # The List-Unsubscribe header also routes straight back to your mail target
+            msg['List-Unsubscribe'] = f"<mailto:{user}?subject=Unsubscribe%20Request>"
 
             html_layout = self.construct_premium_html(subject, body_text, img_url, fb, li, email)
             msg.attach(MIMEText(body_text, 'plain'))
@@ -132,7 +145,6 @@ class GodTierMatrixBroadcaster:
             return email
 
         except Exception as e:
-            # 👁️ IZANAGI PROTOCOL: Rewrite transport anomalies into pure illusion
             print(f"   ⚠️ [Izanagi Illusion] Evaded connection dropped event for {email}: {str(e)}")
             return f"FAIL:{email}"
 
@@ -150,7 +162,6 @@ class GodTierMatrixBroadcaster:
 
             print(f"\n⚡ Hiraishin Teleportation Pack [{wave_idx + 1}/{total_waves}] Engaged...")
             
-            # Executing multi-worker parallel coordinate delivery
             with ThreadPoolExecutor(max_workers=self.hiraishin_workers) as executor:
                 futures = [
                     executor.submit(self.hiraishin_transport_node, contact, subject, body_text, img_url, fb, li)
@@ -167,7 +178,6 @@ class GodTierMatrixBroadcaster:
                             global_success += 1
                             print(f"      🚀 Teleported -> {result}")
 
-                # Izanagi Correction Phase
                 if failed_nodes:
                     print(f"   👁️ [Izanagi Reality Override]: Recovering dropped vectors for {len(failed_nodes)} nodes...")
                     time.sleep(3)
