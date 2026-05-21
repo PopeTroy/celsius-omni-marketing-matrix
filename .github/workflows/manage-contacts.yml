@@ -11,6 +11,7 @@ on:
         options:
           - manual
           - csv_paste
+          - csv_file_upload
       manual_name:
         description: 'Manual: Subscriber Full Name'
         required: false
@@ -23,10 +24,9 @@ on:
         required: false
         default: 'General'
       csv_data:
-        description: 'CSV Paste: Raw CSV content (Must include email, name, tags columns)'
+        description: 'CSV Paste: Raw CSV content'
         required: false
 
-# Crucial: Give the automatic GITHUB_TOKEN explicit authority to commit data back to your repo
 permissions:
   contents: write
 
@@ -37,7 +37,7 @@ jobs:
     - name: Clone Repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }} # Bypasses custom token requirements completely
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Initialize Python Runtime
       uses: actions/setup-python@v5
@@ -56,8 +56,10 @@ jobs:
         import os, json, csv, io
 
         db_file = 'contacts.json'
+        csv_dir = 'csv_imports'
+        
         if os.path.exists(db_file):
-            with open(db_file, 'r') as f:
+            with open(db_file, 'r', encoding='utf-8') as f:
                 try: database = json.load(f)
                 except: database = []
         else:
@@ -76,8 +78,6 @@ jobs:
                     database.append({'name': name, 'email': email, 'tag': tag})
                     added_count += 1
                     print(f'✅ Logged Individual: {email}')
-                else:
-                    print(f'⚠️ Duplication avoided for: {email}')
 
         elif action == 'csv_paste':
             csv_raw = os.getenv('INPUT_CSV', '')
@@ -92,14 +92,59 @@ jobs:
             if email_key:
                 for row in reader:
                     email = row[email_key].strip().lower() if row.get(email_key) else ''
-                    name = row[name_key].strip() if name_key and row.get(name_key) else 'Subscriber'
+                    name = row[name_key].strip() if name_key and row.get(name_key) else ''
                     tag = row[tag_key].strip() if tag_key and row.get(tag_key) else 'General'
                     
                     if email and '@' in email:
                         if not any(x['email'] == email for x in database):
                             database.append({'name': name, 'email': email, 'tag': tag})
                             added_count += 1
-                print(f'✅ Bulk Complete: Ingested {added_count} new entries.')
+                print(f'✅ Bulk Paste Complete: Ingested {added_count} records.')
+
+        elif action == 'csv_file_upload':
+            if os.path.exists(csv_dir):
+                csv_files = [f for f in os.listdir(csv_dir) if f.endswith('.csv')]
+                if csv_files:
+                    target_file = os.path.join(csv_dir, csv_files[0])
+                    print(f'👁️ Processing Uploaded File: {target_file}')
+                    with open(target_file, mode='r', encoding='utf-8') as f:
+                        reader = csv.DictReader(f)
+                        headers = {k.lower(): k for k in reader.fieldnames} if reader.fieldnames else {}
+                        email_key = headers.get('email') or headers.get('email address')
+                        name_key = headers.get('name') or headers.get('first name')
+                        tag_key = headers.get('tags') or headers.get('tag')
+
+                        if email_key:
+                            for row in reader:
+                                email = row[email_key].strip().lower() if row.get(email_key) else ''
+                                name = row[name_key].strip() if name_key and row.get(name_key) else ''
+                                tag = row[tag_key].strip() if tag_key and row.get(tag_key) else 'General'
+                                
+                                if email and '@' in email:
+                                    if not any(x['email'] == email for x in database):
+                                        database.append({'name': name, 'email': email, 'tag': tag})
+                                        added_count += 1
+                            print(f'✅ File Process Complete: Ingested {added_count} entries.')
+                            os.remove(target_file)
+                        else:
+                            print('🚨 Error: Missing email column inside file headers.')
+                else:
+                    print('📁 Folder empty: No CSV targets located inside csv_imports/')
+            else:
+                print('📁 Missing target directory block path.')
+
+        with open(db_file, 'w', encoding='utf-8') as f:
+            json.dump(database, f, indent=4, ensure_ascii=False)
+        "
+
+    - name: Commit Records Back to Repository
+      run: |
+        git config --global user.name "Celsius Automation Node"
+        git config --global user.email "automation@celsiusmediagroup.co.za"
+        git add contacts.json
+        git add -A csv_imports/ 2>/dev/null || true
+        git diff-index --quiet HEAD || git commit -m "⚡ Core Matrix Update: Subscriber Registry Sync"
+        git push origin main
             else:
                 print('🚨 Missing core parameter: CSV must contain an \"email\" column.')
 
