@@ -228,6 +228,9 @@ jobs:
                 content = extract_text_from_file(filepath)
                 found_emails = set(re.findall(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}", content))
 
+                ext_type = file.split(".")[-1].upper()
+                file_tag = ext_type + " Import"
+
                 for email in found_emails:
                     email_clean = email.lower().strip()
                     fn, sn, full_name, bus = derive_identity_from_email(email_clean)
@@ -238,7 +241,7 @@ jobs:
                         "surname": sn,
                         "business_name": bus,
                         "email": email_clean,
-                        "tag": f"{file.split(\".\")[-1].upper()} Import"
+                        "tag": file_tag
                     }
                     if not any(x.get("email") == email_clean for x in database):
                         database.append(record)
