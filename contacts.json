@@ -3,5 +3,6197 @@
         "name": "Bobby Moahi",
         "email": "bobbymoahi@gmail.com",
         "tag": "General"
+    },
+    {
+        "name": "Bstrong Member",
+        "first_name": "Bstrong",
+        "surname": "Member",
+        "business_name": "Coloradomesa Corp",
+        "email": "bstrong@coloradomesa.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abraun Member",
+        "first_name": "Abraun",
+        "surname": "Member",
+        "business_name": "Oglethorpe Corp",
+        "email": "abraun@oglethorpe.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cdenham Member",
+        "first_name": "Cdenham",
+        "surname": "Member",
+        "business_name": "Iona Corp",
+        "email": "cdenham@iona.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cuvb Member",
+        "first_name": "Cuvb",
+        "surname": "Member",
+        "business_name": "Cornell Corp",
+        "email": "cuvb@cornell.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brianne Davis",
+        "first_name": "Brianne",
+        "surname": "Davis",
+        "business_name": "Bhsu Corp",
+        "email": "brianne.davis@bhsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Awatana Member",
+        "first_name": "Awatana",
+        "surname": "Member",
+        "business_name": "Msudenver Corp",
+        "email": "awatana1@msudenver.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amilewski Member",
+        "first_name": "Amilewski",
+        "surname": "Member",
+        "business_name": "Lynn Corp",
+        "email": "amilewski@lynn.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ablack Member",
+        "first_name": "Ablack",
+        "surname": "Member",
+        "business_name": "Vcccd Corp",
+        "email": "ablack@vcccd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chuaroto Member",
+        "first_name": "Chuaroto",
+        "surname": "Member",
+        "business_name": "Fnu Corp",
+        "email": "chuaroto@fnu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clc00 Member",
+        "first_name": "Clc00",
+        "surname": "Member",
+        "business_name": "Marietta Corp",
+        "email": "clc007@marietta.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alexanmk0 Member",
+        "first_name": "Alexanmk0",
+        "surname": "Member",
+        "business_name": "Sunyjcc Corp",
+        "email": "alexanmk01@sunyjcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Apresto Member",
+        "first_name": "Apresto",
+        "surname": "Member",
+        "business_name": "Uno Corp",
+        "email": "apresto1@uno.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Barbara Jackson",
+        "first_name": "Barbara",
+        "surname": "Jackson",
+        "business_name": "Swcu Corp",
+        "email": "barbara.jackson@swcu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Andrew C Davis",
+        "first_name": "Andrew",
+        "surname": "C Davis",
+        "business_name": "Ndsu Corp",
+        "email": "andrew.c.davis@ndsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ajonesolson Member",
+        "first_name": "Ajonesolson",
+        "surname": "Member",
+        "business_name": "Ccis Corp",
+        "email": "ajonesolson@ccis.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adavis Member",
+        "first_name": "Adavis",
+        "surname": "Member",
+        "business_name": "Masters Corp",
+        "email": "adavis@masters.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bello Member",
+        "first_name": "Bello",
+        "surname": "Member",
+        "business_name": "Njit Corp",
+        "email": "bello@njit.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bpettis Member",
+        "first_name": "Bpettis",
+        "surname": "Member",
+        "business_name": "Fitchburgstate Corp",
+        "email": "bpettis@fitchburgstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Calvin King",
+        "first_name": "Calvin",
+        "surname": "King",
+        "business_name": "Asurams Corp",
+        "email": "calvin.king@asurams.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cbodnar Member",
+        "first_name": "Cbodnar",
+        "surname": "Member",
+        "business_name": "Caldwell Corp",
+        "email": "cbodnar@caldwell.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Colchagoff Member",
+        "first_name": "Colchagoff",
+        "surname": "Member",
+        "business_name": "Findlay Corp",
+        "email": "colchagoff@findlay.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Akeem Bonepart",
+        "first_name": "Akeem",
+        "surname": "Bonepart",
+        "business_name": "Claflin Corp",
+        "email": "akeem.bonepart@claflin.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alli Obanion",
+        "first_name": "Alli",
+        "surname": "Obanion",
+        "business_name": "Neo Corp",
+        "email": "alli.obanion@neo.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Andrew Palileo",
+        "first_name": "Andrew",
+        "surname": "Palileo",
+        "business_name": "Unt Corp",
+        "email": "andrew.palileo@unt.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Awalker Member",
+        "first_name": "Awalker",
+        "surname": "Member",
+        "business_name": "Vsu Corp",
+        "email": "awalker@vsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Csibilia Member",
+        "first_name": "Csibilia",
+        "surname": "Member",
+        "business_name": "Holyfamily Corp",
+        "email": "csibilia@holyfamily.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cmartin Member",
+        "first_name": "Cmartin",
+        "surname": "Member",
+        "business_name": "Stonehill Corp",
+        "email": "cmartin9@stonehill.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Blniles Member",
+        "first_name": "Blniles",
+        "surname": "Member",
+        "business_name": "Fsu Corp",
+        "email": "blniles@fsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amanda Vazquez",
+        "first_name": "Amanda",
+        "surname": "Vazquez",
+        "business_name": "Chaminade Corp",
+        "email": "amanda.vazquez@chaminade.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Apreuss Member",
+        "first_name": "Apreuss",
+        "surname": "Member",
+        "business_name": "Bellarmine Corp",
+        "email": "apreuss@bellarmine.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cbolf Member",
+        "first_name": "Cbolf",
+        "surname": "Member",
+        "business_name": "Mcneese Corp",
+        "email": "cbolf@mcneese.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Argarner Member",
+        "first_name": "Argarner",
+        "surname": "Member",
+        "business_name": "Pipeline Corp",
+        "email": "argarner@pipeline.sbcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adrianna Culbert",
+        "first_name": "Adrianna",
+        "surname": "Culbert",
+        "business_name": "Colostate Corp",
+        "email": "adrianna.culbert@colostate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Coachsutton Member",
+        "first_name": "Coachsutton",
+        "surname": "Member",
+        "business_name": "Purdue Corp",
+        "email": "coachsutton@purdue.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Basorem Member",
+        "first_name": "Basorem",
+        "surname": "Member",
+        "business_name": "Vcu Corp",
+        "email": "basorem@vcu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abegger Member",
+        "first_name": "Abegger",
+        "surname": "Member",
+        "business_name": "Dawson Corp",
+        "email": "abegger@dawson.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Anders Nelson",
+        "first_name": "Anders",
+        "surname": "Nelson",
+        "business_name": "Uky Corp",
+        "email": "anders.nelson@uky.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Casey Fitzpatrick",
+        "first_name": "Casey",
+        "surname": "Fitzpatrick",
+        "business_name": "Nichols Corp",
+        "email": "casey.fitzpatrick@nichols.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cbenner Member",
+        "first_name": "Cbenner",
+        "surname": "Member",
+        "business_name": "Wheeling Corp",
+        "email": "cbenner@wheeling.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aanderson Member",
+        "first_name": "Aanderson",
+        "surname": "Member",
+        "business_name": "Csbsju Corp",
+        "email": "aanderson@csbsju.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ccampbel Member",
+        "first_name": "Ccampbel",
+        "surname": "Member",
+        "business_name": "Nebrwesleyan Corp",
+        "email": "ccampbel@nebrwesleyan.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Colson Member",
+        "first_name": "Colson",
+        "surname": "Member",
+        "business_name": "Ulm Corp",
+        "email": "colson@ulm.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Costados Member",
+        "first_name": "Costados",
+        "surname": "Member",
+        "business_name": "Ohio Corp",
+        "email": "costados@ohio.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cusimanor Member",
+        "first_name": "Cusimanor",
+        "surname": "Member",
+        "business_name": "Milescc Corp",
+        "email": "cusimanor@milescc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ctamas Member",
+        "first_name": "Ctamas",
+        "surname": "Member",
+        "business_name": "Illinois Corp",
+        "email": "ctamas@illinois.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bimperiale Member",
+        "first_name": "Bimperiale",
+        "surname": "Member",
+        "business_name": "Ut Corp",
+        "email": "bimperiale@ut.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amaclean Member",
+        "first_name": "Amaclean",
+        "surname": "Member",
+        "business_name": "Uca Corp",
+        "email": "amaclean@uca.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amahan Member",
+        "first_name": "Amahan",
+        "surname": "Member",
+        "business_name": "Rangercollege Corp",
+        "email": "amahan@rangercollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Apecko Member",
+        "first_name": "Apecko",
+        "surname": "Member",
+        "business_name": "Mailbox Corp",
+        "email": "apecko@mailbox.sc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Calkine Member",
+        "first_name": "Calkine",
+        "surname": "Member",
+        "business_name": "Farmingdale Corp",
+        "email": "calkine@farmingdale.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cgrotowski Member",
+        "first_name": "Cgrotowski",
+        "surname": "Member",
+        "business_name": "Fau Corp",
+        "email": "cgrotowski@fau.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alitrenta Member",
+        "first_name": "Alitrenta",
+        "surname": "Member",
+        "business_name": "Albright Corp",
+        "email": "alitrenta@albright.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ana Pestanadeoliveira",
+        "first_name": "Ana",
+        "surname": "Pestanadeoliveira",
+        "business_name": "Mobap Corp",
+        "email": "ana.pestanadeoliveira@mobap.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Blockre Member",
+        "first_name": "Blockre",
+        "surname": "Member",
+        "business_name": "Farmingdale Corp",
+        "email": "blockre@farmingdale.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Burdeau Member",
+        "first_name": "Burdeau",
+        "surname": "Member",
+        "business_name": "Erskine Corp",
+        "email": "burdeau@erskine.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Agoldsberry Member",
+        "first_name": "Agoldsberry",
+        "surname": "Member",
+        "business_name": "Seu Corp",
+        "email": "agoldsberry@seu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bsauni Member",
+        "first_name": "Bsauni",
+        "surname": "Member",
+        "business_name": "Hawaii Corp",
+        "email": "bsauni@hawaii.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aliyah Member",
+        "first_name": "Aliyah",
+        "surname": "Member",
+        "business_name": "Fortscott Corp",
+        "email": "aliyah@fortscott.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aglinville Member",
+        "first_name": "Aglinville",
+        "surname": "Member",
+        "business_name": "Mail Corp",
+        "email": "aglinville@mail.wvu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bjones Member",
+        "first_name": "Bjones",
+        "surname": "Member",
+        "business_name": "Stevens Corp",
+        "email": "bjones3@stevens.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adriana Skipper",
+        "first_name": "Adriana",
+        "surname": "Skipper",
+        "business_name": "Ottawa Corp",
+        "email": "adriana.skipper@ottawa.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Conditcj Member",
+        "first_name": "Conditcj",
+        "surname": "Member",
+        "business_name": "Miamioh Corp",
+        "email": "conditcj@miamioh.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cfrederick Member",
+        "first_name": "Cfrederick",
+        "surname": "Member",
+        "business_name": "Missouriwestern Corp",
+        "email": "cfrederick@missouriwestern.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bwilliams Member",
+        "first_name": "Bwilliams",
+        "surname": "Member",
+        "business_name": "Gwmail Corp",
+        "email": "bwilliams22@gwmail.gwu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Craig Bere",
+        "first_name": "Craig",
+        "surname": "Bere",
+        "business_name": "Wku Corp",
+        "email": "craig.bere@wku.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amarsellis Member",
+        "first_name": "Amarsellis",
+        "surname": "Member",
+        "business_name": "Oru Corp",
+        "email": "amarsellis@oru.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Coachsouthcott Member",
+        "first_name": "Coachsouthcott",
+        "surname": "Member",
+        "business_name": "Concord Corp",
+        "email": "coachsouthcott@concord.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chertel Member",
+        "first_name": "Chertel",
+        "surname": "Member",
+        "business_name": "Nmsu Corp",
+        "email": "chertel@nmsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chris Tellesbo",
+        "first_name": "Chris",
+        "surname": "Tellesbo",
+        "business_name": "Slcc Corp",
+        "email": "chris.tellesbo@slcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bdonarski Member",
+        "first_name": "Bdonarski",
+        "surname": "Member",
+        "business_name": "Umary Corp",
+        "email": "bdonarski@umary.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aea Member",
+        "first_name": "Aea",
+        "surname": "Member",
+        "business_name": "Stmarys-ca Corp",
+        "email": "aea11@stmarys-ca.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alesha J Wilson",
+        "first_name": "Alesha",
+        "surname": "J Wilson",
+        "business_name": "Dartmouth Corp",
+        "email": "alesha.j.wilson@dartmouth.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Courtney Bernstein",
+        "first_name": "Courtney",
+        "surname": "Bernstein",
+        "business_name": "Mountsaintvincent Corp",
+        "email": "courtney.bernstein@mountsaintvincent.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Billye Member",
+        "first_name": "Billye",
+        "surname": "Member",
+        "business_name": "Ku Corp",
+        "email": "billye@ku.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Acarrizales Member",
+        "first_name": "Acarrizales",
+        "surname": "Member",
+        "business_name": "Yvcc Corp",
+        "email": "acarrizales@yvcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cohencc Member",
+        "first_name": "Cohencc",
+        "surname": "Member",
+        "business_name": "Uncw Corp",
+        "email": "cohencc@uncw.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Asharman Member",
+        "first_name": "Asharman",
+        "surname": "Member",
+        "business_name": "Caspercollege Corp",
+        "email": "asharman@caspercollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Coramos Member",
+        "first_name": "Coramos",
+        "surname": "Member",
+        "business_name": "Dcccd Corp",
+        "email": "coramos@dcccd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bori May",
+        "first_name": "Bori",
+        "surname": "May",
+        "business_name": "Post03 Corp",
+        "email": "bori.may@post03.curry.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Beachvb Member",
+        "first_name": "Beachvb",
+        "surname": "Member",
+        "business_name": "Missouristate Corp",
+        "email": "beachvb@missouristate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bschreie Member",
+        "first_name": "Bschreie",
+        "surname": "Member",
+        "business_name": "Mail Corp",
+        "email": "bschreie@mail.yu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ahain Member",
+        "first_name": "Ahain",
+        "surname": "Member",
+        "business_name": "Uci Corp",
+        "email": "ahain@uci.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ana Pego",
+        "first_name": "Ana",
+        "surname": "Pego",
+        "business_name": "Uncc Corp",
+        "email": "ana.pego@uncc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bsomera Member",
+        "first_name": "Bsomera",
+        "surname": "Member",
+        "business_name": "Wesleyan Corp",
+        "email": "bsomera@wesleyan.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aronberg Member",
+        "first_name": "Aronberg",
+        "surname": "Member",
+        "business_name": "Ecc Corp",
+        "email": "aronberg@ecc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cawalter Member",
+        "first_name": "Cawalter",
+        "surname": "Member",
+        "business_name": "Calpoly Corp",
+        "email": "cawalter@calpoly.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amooney Member",
+        "first_name": "Amooney",
+        "surname": "Member",
+        "business_name": "Acu Corp",
+        "email": "amooney@acu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alexander Czopek",
+        "first_name": "Alexander",
+        "surname": "Czopek",
+        "business_name": "Wilkes Corp",
+        "email": "alexander.czopek@wilkes.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Corgiat Member",
+        "first_name": "Corgiat",
+        "surname": "Member",
+        "business_name": "Crc Corp",
+        "email": "corgiat@crc.losrios.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aantanav Member",
+        "first_name": "Aantanav",
+        "surname": "Member",
+        "business_name": "Jeffco Corp",
+        "email": "aantanav@jeffco.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Arb Member",
+        "first_name": "Arb",
+        "surname": "Member",
+        "business_name": "Psu Corp",
+        "email": "arb358@psu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Angie Sanders",
+        "first_name": "Angie",
+        "surname": "Sanders",
+        "business_name": "Snead Corp",
+        "email": "angie.sanders@snead.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aassimos Member",
+        "first_name": "Aassimos",
+        "surname": "Member",
+        "business_name": "Dom Corp",
+        "email": "aassimos@dom.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brian Ambrose",
+        "first_name": "Brian",
+        "surname": "Ambrose",
+        "business_name": "Oberlin Corp",
+        "email": "brian.ambrose@oberlin.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Asydow Member",
+        "first_name": "Asydow",
+        "surname": "Member",
+        "business_name": "Keiseruniversity Corp",
+        "email": "asydow@keiseruniversity.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ajpollart Member",
+        "first_name": "Ajpollart",
+        "surname": "Member",
+        "business_name": "Umary Corp",
+        "email": "ajpollart@umary.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cbenatti Member",
+        "first_name": "Cbenatti",
+        "surname": "Member",
+        "business_name": "Csub Corp",
+        "email": "cbenatti@csub.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brosen Member",
+        "first_name": "Brosen",
+        "surname": "Member",
+        "business_name": "Nova Corp",
+        "email": "brosen@nova.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Agormanson Member",
+        "first_name": "Agormanson",
+        "surname": "Member",
+        "business_name": "Olympic Corp",
+        "email": "agormanson@olympic.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Agregory Member",
+        "first_name": "Agregory",
+        "surname": "Member",
+        "business_name": "Bellarmine Corp",
+        "email": "agregory@bellarmine.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Angmil Member",
+        "first_name": "Angmil",
+        "surname": "Member",
+        "business_name": "Hotmail Corp",
+        "email": "angmil25@hotmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ckolek Member",
+        "first_name": "Ckolek",
+        "surname": "Member",
+        "business_name": "Rivier Corp",
+        "email": "ckolek@rivier.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amandas Member",
+        "first_name": "Amandas",
+        "surname": "Member",
+        "business_name": "Northeast Corp",
+        "email": "amandas@northeast.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cgravel Member",
+        "first_name": "Cgravel",
+        "surname": "Member",
+        "business_name": "Hillsdale Corp",
+        "email": "cgravel@hillsdale.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Andrew Lee",
+        "first_name": "Andrew",
+        "surname": "Lee",
+        "business_name": "Rosemont Corp",
+        "email": "andrew.lee@rosemont.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cmm Member",
+        "first_name": "Cmm",
+        "surname": "Member",
+        "business_name": "Cornell Corp",
+        "email": "cmm494@cornell.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alehocky Member",
+        "first_name": "Alehocky",
+        "surname": "Member",
+        "business_name": "Nmjc Corp",
+        "email": "alehocky@nmjc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Awingers Member",
+        "first_name": "Awingers",
+        "surname": "Member",
+        "business_name": "Bpc Corp",
+        "email": "awingers@bpc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cgarring Member",
+        "first_name": "Cgarring",
+        "surname": "Member",
+        "business_name": "Uiwtx Corp",
+        "email": "cgarring@uiwtx.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ctaubert Member",
+        "first_name": "Ctaubert",
+        "surname": "Member",
+        "business_name": "Csumb Corp",
+        "email": "ctaubert@csumb.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aaron Hastings",
+        "first_name": "Aaron",
+        "surname": "Hastings",
+        "business_name": "Unt Corp",
+        "email": "aaron.hastings@unt.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cduartem Member",
+        "first_name": "Cduartem",
+        "surname": "Member",
+        "business_name": "Whittier Corp",
+        "email": "cduartem@whittier.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amanda Wilkins",
+        "first_name": "Amanda",
+        "surname": "Wilkins",
+        "business_name": "Mville Corp",
+        "email": "amanda.wilkins@mville.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abaustin Member",
+        "first_name": "Abaustin",
+        "surname": "Member",
+        "business_name": "Liberty Corp",
+        "email": "abaustin1@liberty.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Arister Member",
+        "first_name": "Arister",
+        "surname": "Member",
+        "business_name": "Fpctx Corp",
+        "email": "arister@fpctx.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brian Murphy",
+        "first_name": "Brian",
+        "surname": "Murphy",
+        "business_name": "Southmountaincc Corp",
+        "email": "brian.murphy@southmountaincc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Courtney Hornsby",
+        "first_name": "Courtney",
+        "surname": "Hornsby",
+        "business_name": "Csus Corp",
+        "email": "courtney.hornsby@csus.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Basmja Member",
+        "first_name": "Basmja",
+        "surname": "Member",
+        "business_name": "Bluffton Corp",
+        "email": "basmja@bluffton.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bchloe Member",
+        "first_name": "Bchloe",
+        "surname": "Member",
+        "business_name": "Outlook Corp",
+        "email": "bchloe17@outlook.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Charles Rappold",
+        "first_name": "Charles",
+        "surname": "Rappold",
+        "business_name": "Southeastern Corp",
+        "email": "charles.rappold@southeastern.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brent Aldridge",
+        "first_name": "Brent",
+        "surname": "Aldridge",
+        "business_name": "Northern Corp",
+        "email": "brent.aldridge@northern.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bkaeterle Member",
+        "first_name": "Bkaeterle",
+        "surname": "Member",
+        "business_name": "Bridgew Corp",
+        "email": "bkaeterle@bridgew.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "A Kessenich",
+        "first_name": "A",
+        "surname": "Kessenich",
+        "business_name": "Northeastern Corp",
+        "email": "a.kessenich@northeastern.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bmrobinson Member",
+        "first_name": "Bmrobinson",
+        "surname": "Member",
+        "business_name": "Stkate Corp",
+        "email": "bmrobinson239@stkate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Csubrizi Member",
+        "first_name": "Csubrizi",
+        "surname": "Member",
+        "business_name": "Ndm Corp",
+        "email": "csubrizi1@ndm.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Anh Member",
+        "first_name": "Anh",
+        "surname": "Member",
+        "business_name": "Umd Corp",
+        "email": "anh@umd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bharris 0",
+        "first_name": "Bharris",
+        "surname": "0",
+        "business_name": "Waketech Corp",
+        "email": "bharris10@waketech.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Carterc Member",
+        "first_name": "Carterc",
+        "surname": "Member",
+        "business_name": "Email Corp",
+        "email": "carterc@email.wcu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ablair Member",
+        "first_name": "Ablair",
+        "surname": "Member",
+        "business_name": "Umassd Corp",
+        "email": "ablair2@umassd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Campbellkm Member",
+        "first_name": "Campbellkm",
+        "surname": "Member",
+        "business_name": "Vcu Corp",
+        "email": "campbellkm6@vcu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cunham Member",
+        "first_name": "Cunham",
+        "surname": "Member",
+        "business_name": "Bethelu Corp",
+        "email": "cunham@bethelu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cjankowski Member",
+        "first_name": "Cjankowski",
+        "surname": "Member",
+        "business_name": "Csumb Corp",
+        "email": "cjankowski@csumb.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ccatanach Member",
+        "first_name": "Ccatanach",
+        "surname": "Member",
+        "business_name": "Ut Corp",
+        "email": "ccatanach@ut.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bhaney Member",
+        "first_name": "Bhaney",
+        "surname": "Member",
+        "business_name": "Msjc Corp",
+        "email": "bhaney@msjc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Christopher Salko",
+        "first_name": "Christopher",
+        "surname": "Salko",
+        "business_name": "Fandm Corp",
+        "email": "christopher.salko@fandm.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Andrew Richards",
+        "first_name": "Andrew",
+        "surname": "Richards",
+        "business_name": "Uvu Corp",
+        "email": "andrew.richards@uvu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Blangley Member",
+        "first_name": "Blangley",
+        "surname": "Member",
+        "business_name": "Trinity Corp",
+        "email": "blangley@trinity.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Craig Case",
+        "first_name": "Craig",
+        "surname": "Case",
+        "business_name": "Tamuc Corp",
+        "email": "craig.case@tamuc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Berrrobe Member",
+        "first_name": "Berrrobe",
+        "surname": "Member",
+        "business_name": "Isu Corp",
+        "email": "berrrobe@isu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abroccoli Member",
+        "first_name": "Abroccoli",
+        "surname": "Member",
+        "business_name": "Drew Corp",
+        "email": "abroccoli@drew.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Arykse Member",
+        "first_name": "Arykse",
+        "surname": "Member",
+        "business_name": "Iu Corp",
+        "email": "arykse@iu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clarkp Member",
+        "first_name": "Clarkp",
+        "surname": "Member",
+        "business_name": "Cookman Corp",
+        "email": "clarkp@cookman.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ajackson Member",
+        "first_name": "Ajackson",
+        "surname": "Member",
+        "business_name": "Suscc Corp",
+        "email": "ajackson@suscc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aredden Member",
+        "first_name": "Aredden",
+        "surname": "Member",
+        "business_name": "Everettcc Corp",
+        "email": "aredden@everettcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Allison Volkmer",
+        "first_name": "Allison",
+        "surname": "Volkmer",
+        "business_name": "Victoriacollege Corp",
+        "email": "allison.volkmer@victoriacollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bblanken Member",
+        "first_name": "Bblanken",
+        "surname": "Member",
+        "business_name": "Ccu Corp",
+        "email": "bblanken@ccu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bthich Member",
+        "first_name": "Bthich",
+        "surname": "Member",
+        "business_name": "Uci Corp",
+        "email": "bthich@uci.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bsabin Member",
+        "first_name": "Bsabin",
+        "surname": "Member",
+        "business_name": "Samford Corp",
+        "email": "bsabin@samford.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bu Volleyball",
+        "first_name": "Bu",
+        "surname": "Volleyball",
+        "business_name": "Biola Corp",
+        "email": "bu.volleyball@biola.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Arollman Member",
+        "first_name": "Arollman",
+        "surname": "Member",
+        "business_name": "Albany Corp",
+        "email": "arollman@albany.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chris Chown",
+        "first_name": "Chris",
+        "surname": "Chown",
+        "business_name": "Providencecc Corp",
+        "email": "chris.chown@providencecc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Boudreas Member",
+        "first_name": "Boudreas",
+        "surname": "Member",
+        "business_name": "Uww Corp",
+        "email": "boudreas@uww.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Breid Member",
+        "first_name": "Breid",
+        "surname": "Member",
+        "business_name": "Sdccd Corp",
+        "email": "breid@sdccd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cindy Cavanagh",
+        "first_name": "Cindy",
+        "surname": "Cavanagh",
+        "business_name": "Kzoo Corp",
+        "email": "cindy.cavanagh@kzoo.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Areasor Member",
+        "first_name": "Areasor",
+        "surname": "Member",
+        "business_name": "Emich Corp",
+        "email": "areasor@emich.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adeterin Member",
+        "first_name": "Adeterin",
+        "surname": "Member",
+        "business_name": "Kent Corp",
+        "email": "adeterin@kent.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brittany Salloum",
+        "first_name": "Brittany",
+        "surname": "Salloum",
+        "business_name": "Lacollege Corp",
+        "email": "brittany.salloum@lacollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abuffham Member",
+        "first_name": "Abuffham",
+        "surname": "Member",
+        "business_name": "Masters Corp",
+        "email": "abuffham@masters.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abigail Screnock",
+        "first_name": "Abigail",
+        "surname": "Screnock",
+        "business_name": "Lawrence Corp",
+        "email": "abigail.screnock@lawrence.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ajleonard Member",
+        "first_name": "Ajleonard",
+        "surname": "Member",
+        "business_name": "Ship Corp",
+        "email": "ajleonard@ship.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adai Member",
+        "first_name": "Adai",
+        "surname": "Member",
+        "business_name": "Lesley Corp",
+        "email": "adai@lesley.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Coltonnaill Member",
+        "first_name": "Coltonnaill",
+        "surname": "Member",
+        "business_name": "Multnomah Corp",
+        "email": "coltonnaill@multnomah.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Battina Member",
+        "first_name": "Battina",
+        "surname": "Member",
+        "business_name": "Bhc Corp",
+        "email": "battina@bhc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bowersr Member",
+        "first_name": "Bowersr",
+        "surname": "Member",
+        "business_name": "Gbc Corp",
+        "email": "bowersr@gbc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cmay Member",
+        "first_name": "Cmay",
+        "surname": "Member",
+        "business_name": "D Corp",
+        "email": "cmay@d.umn.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Csangus Member",
+        "first_name": "Csangus",
+        "surname": "Member",
+        "business_name": "Loyola Corp",
+        "email": "csangus@loyola.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clarkjol Member",
+        "first_name": "Clarkjol",
+        "surname": "Member",
+        "business_name": "Iu Corp",
+        "email": "clarkjol@iu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bhilliard Member",
+        "first_name": "Bhilliard",
+        "surname": "Member",
+        "business_name": "Sdsu Corp",
+        "email": "bhilliard@sdsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Camille Messina",
+        "first_name": "Camille",
+        "surname": "Messina",
+        "business_name": "Mountsaintvincent Corp",
+        "email": "camille.messina@mountsaintvincent.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Apuvolleyball Member",
+        "first_name": "Apuvolleyball",
+        "surname": "Member",
+        "business_name": "Apu Corp",
+        "email": "apuvolleyball@apu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Colvint Member",
+        "first_name": "Colvint",
+        "surname": "Member",
+        "business_name": "Palmbeachstate Corp",
+        "email": "colvint@palmbeachstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brian Lamppa",
+        "first_name": "Brian",
+        "surname": "Lamppa",
+        "business_name": "Finlandia Corp",
+        "email": "brian.lamppa@finlandia.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bensonheather Member",
+        "first_name": "Bensonheather",
+        "surname": "Member",
+        "business_name": "Susqu Corp",
+        "email": "bensonheather@susqu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brittany Carpenter",
+        "first_name": "Brittany",
+        "surname": "Carpenter",
+        "business_name": "Montreat Corp",
+        "email": "brittany.carpenter@montreat.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Berth Member",
+        "first_name": "Berth",
+        "surname": "Member",
+        "business_name": "Lycoming Corp",
+        "email": "berth@lycoming.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bhiler Member",
+        "first_name": "Bhiler",
+        "surname": "Member",
+        "business_name": "Lsu Corp",
+        "email": "bhiler@lsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "B Jaskot",
+        "first_name": "B",
+        "surname": "Jaskot",
+        "business_name": "Student Corp",
+        "email": "b.jaskot@student.fdu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amy Veenhof",
+        "first_name": "Amy",
+        "surname": "Veenhof",
+        "business_name": "Dsu Corp",
+        "email": "amy.veenhof@dsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Christina Matthews",
+        "first_name": "Christina",
+        "surname": "Matthews",
+        "business_name": "Pba Corp",
+        "email": "christina_matthews@pba.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adamsry Member",
+        "first_name": "Adamsry",
+        "surname": "Member",
+        "business_name": "Lafayette Corp",
+        "email": "adamsry@lafayette.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abby Crowser",
+        "first_name": "Abby",
+        "surname": "Crowser",
+        "business_name": "Minnesota Corp",
+        "email": "abby.crowser@minnesota.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cdbarbosa Member",
+        "first_name": "Cdbarbosa",
+        "surname": "Member",
+        "business_name": "Mail Corp",
+        "email": "cdbarbosa@mail.fhsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ahinsey Member",
+        "first_name": "Ahinsey",
+        "surname": "Member",
+        "business_name": "Umw Corp",
+        "email": "ahinsey@umw.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aschiller Member",
+        "first_name": "Aschiller",
+        "surname": "Member",
+        "business_name": "Schreiner Corp",
+        "email": "aschiller@schreiner.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Afahey Member",
+        "first_name": "Afahey",
+        "surname": "Member",
+        "business_name": "Su Corp",
+        "email": "afahey@su.suffolk.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Beg Member",
+        "first_name": "Beg",
+        "surname": "Member",
+        "business_name": "Reinhardt Corp",
+        "email": "beg@reinhardt.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Breann Shelton",
+        "first_name": "Breann",
+        "surname": "Shelton",
+        "business_name": "Hsutx Corp",
+        "email": "breann.shelton@hsutx.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abby Gilleland",
+        "first_name": "Abby",
+        "surname": "Gilleland",
+        "business_name": "Uconn Corp",
+        "email": "abby.gilleland@uconn.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ahoekstr Member",
+        "first_name": "Ahoekstr",
+        "surname": "Member",
+        "business_name": "Shepherd Corp",
+        "email": "ahoekstr@shepherd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cluthy Member",
+        "first_name": "Cluthy",
+        "surname": "Member",
+        "business_name": "Whatcom Corp",
+        "email": "cluthy@whatcom.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Crobinson0 Member",
+        "first_name": "Crobinson0",
+        "surname": "Member",
+        "business_name": "Spalding Corp",
+        "email": "crobinson02@spalding.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Acrowder Member",
+        "first_name": "Acrowder",
+        "surname": "Member",
+        "business_name": "Fit Corp",
+        "email": "acrowder@fit.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aryaklin Member",
+        "first_name": "Aryaklin",
+        "surname": "Member",
+        "business_name": "Oaklandcc Corp",
+        "email": "aryaklin@oaklandcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aschoute Member",
+        "first_name": "Aschoute",
+        "surname": "Member",
+        "business_name": "Samford Corp",
+        "email": "aschoute@samford.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Arunas Duda",
+        "first_name": "Arunas",
+        "surname": "Duda",
+        "business_name": "Uprovidence Corp",
+        "email": "arunas.duda@uprovidence.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adriano Desouza",
+        "first_name": "Adriano",
+        "surname": "Desouza",
+        "business_name": "Mail Corp",
+        "email": "adriano.desouza@mail.wvu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ckoenegstein Member",
+        "first_name": "Ckoenegstein",
+        "surname": "Member",
+        "business_name": "Coloradocollege Corp",
+        "email": "ckoenegstein@coloradocollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ashley Ziegle",
+        "first_name": "Ashley",
+        "surname": "Ziegle",
+        "business_name": "Salemu Corp",
+        "email": "ashley.ziegle@salemu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brennon Darling",
+        "first_name": "Brennon",
+        "surname": "Darling",
+        "business_name": "Snhu Corp",
+        "email": "brennon.darling@snhu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Coles Member",
+        "first_name": "Coles",
+        "surname": "Member",
+        "business_name": "Mailbox Corp",
+        "email": "coles@mailbox.sc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bbrenner Member",
+        "first_name": "Bbrenner",
+        "surname": "Member",
+        "business_name": "Defiance Corp",
+        "email": "bbrenner@defiance.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ajackson Member",
+        "first_name": "Ajackson",
+        "surname": "Member",
+        "business_name": "Sierracollege Corp",
+        "email": "ajackson23@sierracollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aspli Member",
+        "first_name": "Aspli",
+        "surname": "Member",
+        "business_name": "Uis Corp",
+        "email": "aspli2@uis.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "China Perkins",
+        "first_name": "China",
+        "surname": "Perkins",
+        "business_name": "Tcu Corp",
+        "email": "china.perkins@tcu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aelsbernd Member",
+        "first_name": "Aelsbernd",
+        "surname": "Member",
+        "business_name": "Dbq Corp",
+        "email": "aelsbernd@dbq.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chelsea Cline",
+        "first_name": "Chelsea",
+        "surname": "Cline",
+        "business_name": "Byu Corp",
+        "email": "chelsea_cline@byu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bm Robinn",
+        "first_name": "Bm",
+        "surname": "Robinn",
+        "business_name": "Gmail Corp",
+        "email": "bm.robinn@gmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Colleen Munson",
+        "first_name": "Colleen",
+        "surname": "Munson",
+        "business_name": "Wmich Corp",
+        "email": "colleen.munson@wmich.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Conradge Member",
+        "first_name": "Conradge",
+        "surname": "Member",
+        "business_name": "Eckerd Corp",
+        "email": "conradge@eckerd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bbuckius Member",
+        "first_name": "Bbuckius",
+        "surname": "Member",
+        "business_name": "King Corp",
+        "email": "bbuckius1@king.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Csimon Member",
+        "first_name": "Csimon",
+        "surname": "Member",
+        "business_name": "Ben Corp",
+        "email": "csimon@ben.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amoura Member",
+        "first_name": "Amoura",
+        "surname": "Member",
+        "business_name": "Uca Corp",
+        "email": "amoura@uca.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ashleylund Member",
+        "first_name": "Ashleylund",
+        "surname": "Member",
+        "business_name": "Mail Corp",
+        "email": "ashleylund@mail.sunyjcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Awinter Member",
+        "first_name": "Awinter",
+        "surname": "Member",
+        "business_name": "Bw Corp",
+        "email": "awinter@bw.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bchase Member",
+        "first_name": "Bchase",
+        "surname": "Member",
+        "business_name": "Worcester Corp",
+        "email": "bchase@worcester.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ashley Gonzalez",
+        "first_name": "Ashley",
+        "surname": "Gonzalez",
+        "business_name": "Friends Corp",
+        "email": "ashley_gonzalez@friends.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clee Member",
+        "first_name": "Clee",
+        "surname": "Member",
+        "business_name": "Centralmethodist Corp",
+        "email": "clee@centralmethodist.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Araujodemelo Member",
+        "first_name": "Araujodemelo",
+        "surname": "Member",
+        "business_name": "Nmmi Corp",
+        "email": "araujodemelo@nmmi.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Blattnerc Member",
+        "first_name": "Blattnerc",
+        "surname": "Member",
+        "business_name": "Crown Corp",
+        "email": "blattnerc@crown.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Augustina 0",
+        "first_name": "Augustina",
+        "surname": "0",
+        "business_name": "Ecu Corp",
+        "email": "augustina20@ecu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bmccomb Member",
+        "first_name": "Bmccomb",
+        "surname": "Member",
+        "business_name": "Ju Corp",
+        "email": "bmccomb1@ju.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bryan Carvalho",
+        "first_name": "Bryan",
+        "surname": "Carvalho",
+        "business_name": "Ottawa Corp",
+        "email": "bryan.carvalho@ottawa.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Asannicolas Member",
+        "first_name": "Asannicolas",
+        "surname": "Member",
+        "business_name": "Lclark Corp",
+        "email": "asannicolas@lclark.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ahen Kim",
+        "first_name": "Ahen",
+        "surname": "Kim",
+        "business_name": "Brown Corp",
+        "email": "ahen_kim@brown.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bmuesenfechter Member",
+        "first_name": "Bmuesenfechter",
+        "surname": "Member",
+        "business_name": "Troy Corp",
+        "email": "bmuesenfechter@troy.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bvt Member",
+        "first_name": "Bvt",
+        "surname": "Member",
+        "business_name": "Psu Corp",
+        "email": "bvt5242@psu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cryan Member",
+        "first_name": "Cryan",
+        "surname": "Member",
+        "business_name": "Uw Corp",
+        "email": "cryan2@uw.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bchateau Member",
+        "first_name": "Bchateau",
+        "surname": "Member",
+        "business_name": "Uno Corp",
+        "email": "bchateau@uno.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bharward Member",
+        "first_name": "Bharward",
+        "surname": "Member",
+        "business_name": "Peru Corp",
+        "email": "bharward@peru.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chuck Crawford",
+        "first_name": "Chuck",
+        "surname": "Crawford",
+        "business_name": "Mtsu Corp",
+        "email": "chuck.crawford@mtsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chill0 Member",
+        "first_name": "Chill0",
+        "surname": "Member",
+        "business_name": "Shepherd Corp",
+        "email": "chill09@shepherd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Akpittenger Member",
+        "first_name": "Akpittenger",
+        "surname": "Member",
+        "business_name": "Loyola Corp",
+        "email": "akpittenger@loyola.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amv Member",
+        "first_name": "Amv",
+        "surname": "Member",
+        "business_name": "Tompkinscortland Corp",
+        "email": "amv@tompkinscortland.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ajordan Member",
+        "first_name": "Ajordan",
+        "surname": "Member",
+        "business_name": "Washcoll Corp",
+        "email": "ajordan3@washcoll.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Csmith Member",
+        "first_name": "Csmith",
+        "surname": "Member",
+        "business_name": "Usw Corp",
+        "email": "csmith@usw.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cahillc Member",
+        "first_name": "Cahillc",
+        "surname": "Member",
+        "business_name": "Mcpherson Corp",
+        "email": "cahillc@mcpherson.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cmoriarty Member",
+        "first_name": "Cmoriarty",
+        "surname": "Member",
+        "business_name": "Berry Corp",
+        "email": "cmoriarty@berry.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Colvinj Member",
+        "first_name": "Colvinj",
+        "surname": "Member",
+        "business_name": "Palmbeachstate Corp",
+        "email": "colvinj@palmbeachstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alaatsch Member",
+        "first_name": "Alaatsch",
+        "surname": "Member",
+        "business_name": "Belhaven Corp",
+        "email": "alaatsch@belhaven.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Callie Phillips",
+        "first_name": "Callie",
+        "surname": "Phillips",
+        "business_name": "Jwu Corp",
+        "email": "callie.phillips@jwu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brandelt Member",
+        "first_name": "Brandelt",
+        "surname": "Member",
+        "business_name": "Ferris Corp",
+        "email": "brandelt@ferris.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Courtney Chacon",
+        "first_name": "Courtney",
+        "surname": "Chacon",
+        "business_name": "Sdstate Corp",
+        "email": "courtney.chacon@sdstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Batkinson Member",
+        "first_name": "Batkinson",
+        "surname": "Member",
+        "business_name": "Desu Corp",
+        "email": "batkinson@desu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cspence Member",
+        "first_name": "Cspence",
+        "surname": "Member",
+        "business_name": "Gavilan Corp",
+        "email": "cspence@gavilan.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cfmack Member",
+        "first_name": "Cfmack",
+        "surname": "Member",
+        "business_name": "Indianatech Corp",
+        "email": "cfmack@indianatech.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bulycz Member",
+        "first_name": "Bulycz",
+        "surname": "Member",
+        "business_name": "Trinity Corp",
+        "email": "bulycz@trinity.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Andayam Member",
+        "first_name": "Andayam",
+        "surname": "Member",
+        "business_name": "Cwu Corp",
+        "email": "andayam@cwu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Crf Smithal",
+        "first_name": "Crf",
+        "surname": "Smithal",
+        "business_name": "Cuchicago Corp",
+        "email": "crf_smithal5@cuchicago.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Armen Zakarian",
+        "first_name": "Armen",
+        "surname": "Zakarian",
+        "business_name": "Westvalley Corp",
+        "email": "armen.zakarian@westvalley.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amcdonough Member",
+        "first_name": "Amcdonough",
+        "surname": "Member",
+        "business_name": "Centenary Corp",
+        "email": "amcdonough@centenary.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Avae Member",
+        "first_name": "Avae",
+        "surname": "Member",
+        "business_name": "Ccsf Corp",
+        "email": "avae@ccsf.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amartinez Member",
+        "first_name": "Amartinez",
+        "surname": "Member",
+        "business_name": "Sfc Corp",
+        "email": "amartinez8@sfc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bbielich Member",
+        "first_name": "Bbielich",
+        "surname": "Member",
+        "business_name": "Pointpark Corp",
+        "email": "bbielich@pointpark.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adamore Member",
+        "first_name": "Adamore",
+        "surname": "Member",
+        "business_name": "Udel Corp",
+        "email": "adamore@udel.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cmack Member",
+        "first_name": "Cmack",
+        "surname": "Member",
+        "business_name": "Ucmerced Corp",
+        "email": "cmack2@ucmerced.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aleah Hayes",
+        "first_name": "Aleah",
+        "surname": "Hayes",
+        "business_name": "Tvcc Corp",
+        "email": "aleah.hayes@tvcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Azyvolos Member",
+        "first_name": "Azyvolos",
+        "surname": "Member",
+        "business_name": "Css Corp",
+        "email": "azyvolos@css.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bechtoldm Member",
+        "first_name": "Bechtoldm",
+        "surname": "Member",
+        "business_name": "Xavier Corp",
+        "email": "bechtoldm@xavier.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ancitodorovic Member",
+        "first_name": "Ancitodorovic",
+        "surname": "Member",
+        "business_name": "Hotmail Corp",
+        "email": "ancitodorovic@hotmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ans 0",
+        "first_name": "Ans",
+        "surname": "0",
+        "business_name": "Msstate Corp",
+        "email": "ans909@msstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bernardkachinko Member",
+        "first_name": "Bernardkachinko",
+        "surname": "Member",
+        "business_name": "Kings Corp",
+        "email": "bernardkachinko@kings.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Awicker Member",
+        "first_name": "Awicker",
+        "surname": "Member",
+        "business_name": "Lakelandcollege Corp",
+        "email": "awicker1@lakelandcollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bvanfleet Member",
+        "first_name": "Bvanfleet",
+        "surname": "Member",
+        "business_name": "Gsu Corp",
+        "email": "bvanfleet@gsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aspoja Member",
+        "first_name": "Aspoja",
+        "surname": "Member",
+        "business_name": "Ewu Corp",
+        "email": "aspoja@ewu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alegonza Member",
+        "first_name": "Alegonza",
+        "surname": "Member",
+        "business_name": "Nmu Corp",
+        "email": "alegonza@nmu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bjohnson Member",
+        "first_name": "Bjohnson",
+        "surname": "Member",
+        "business_name": "Wau Corp",
+        "email": "bjohnson@wau.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alexis N Garrison",
+        "first_name": "Alexis",
+        "surname": "N Garrison",
+        "business_name": "Evergreen Corp",
+        "email": "alexis.n.garrison@evergreen.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cousinm Member",
+        "first_name": "Cousinm",
+        "surname": "Member",
+        "business_name": "Northwood Corp",
+        "email": "cousinm@northwood.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cfloyd Member",
+        "first_name": "Cfloyd",
+        "surname": "Member",
+        "business_name": "Manor Corp",
+        "email": "cfloyd@manor.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Awiseman Member",
+        "first_name": "Awiseman",
+        "surname": "Member",
+        "business_name": "Millikin Corp",
+        "email": "awiseman@millikin.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Apritchard Member",
+        "first_name": "Apritchard",
+        "surname": "Member",
+        "business_name": "Marian Corp",
+        "email": "apritchard@marian.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bgerard Member",
+        "first_name": "Bgerard",
+        "surname": "Member",
+        "business_name": "Framingham Corp",
+        "email": "bgerard@framingham.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ashley Zalewski",
+        "first_name": "Ashley",
+        "surname": "Zalewski",
+        "business_name": "Scranton Corp",
+        "email": "ashley.zalewski@scranton.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Berminge Member",
+        "first_name": "Berminge",
+        "surname": "Member",
+        "business_name": "Iu Corp",
+        "email": "berminge@iu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Blauniere Member",
+        "first_name": "Blauniere",
+        "surname": "Member",
+        "business_name": "Huntsman Corp",
+        "email": "blauniere@huntsman.utah.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chunter Member",
+        "first_name": "Chunter",
+        "surname": "Member",
+        "business_name": "Babson Corp",
+        "email": "chunter3@babson.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Casey Williams",
+        "first_name": "Casey",
+        "surname": "Williams",
+        "business_name": "Msubillings Corp",
+        "email": "casey.williams2@msubillings.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bcrain Member",
+        "first_name": "Bcrain",
+        "surname": "Member",
+        "business_name": "Panola Corp",
+        "email": "bcrain@panola.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bbrandt Member",
+        "first_name": "Bbrandt",
+        "surname": "Member",
+        "business_name": "Wvstateu Corp",
+        "email": "bbrandt@wvstateu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bturner Member",
+        "first_name": "Bturner",
+        "surname": "Member",
+        "business_name": "Jcu Corp",
+        "email": "bturner@jcu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ajlux Member",
+        "first_name": "Ajlux",
+        "surname": "Member",
+        "business_name": "Missouristate Corp",
+        "email": "ajlux@missouristate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "C Allard",
+        "first_name": "C",
+        "surname": "Allard",
+        "business_name": "Northeastern Corp",
+        "email": "c.allard@northeastern.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Criedel Member",
+        "first_name": "Criedel",
+        "surname": "Member",
+        "business_name": "Kent Corp",
+        "email": "criedel2@kent.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adelpio Member",
+        "first_name": "Adelpio",
+        "surname": "Member",
+        "business_name": "Bgsu Corp",
+        "email": "adelpio@bgsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Awilson Member",
+        "first_name": "Awilson",
+        "surname": "Member",
+        "business_name": "Avc Corp",
+        "email": "awilson5@avc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Balichru Member",
+        "first_name": "Balichru",
+        "surname": "Member",
+        "business_name": "Lewisu Corp",
+        "email": "balichru@lewisu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Benjamin Read",
+        "first_name": "Benjamin",
+        "surname": "Read",
+        "business_name": "Emerson Corp",
+        "email": "benjamin_read@emerson.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alma Kovaci",
+        "first_name": "Alma",
+        "surname": "Kovaci",
+        "business_name": "Westpoint Corp",
+        "email": "alma.kovaci@westpoint.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cperret Member",
+        "first_name": "Cperret",
+        "surname": "Member",
+        "business_name": "Valdosta Corp",
+        "email": "cperret@valdosta.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aderrico Member",
+        "first_name": "Aderrico",
+        "surname": "Member",
+        "business_name": "Udayton Corp",
+        "email": "aderrico1@udayton.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adunn Member",
+        "first_name": "Adunn",
+        "surname": "Member",
+        "business_name": "Uwlax Corp",
+        "email": "adunn@uwlax.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ashli Itami",
+        "first_name": "Ashli",
+        "surname": "Itami",
+        "business_name": "Clackamas Corp",
+        "email": "ashli.itami@clackamas.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cora Thompson",
+        "first_name": "Cora",
+        "surname": "Thompson",
+        "business_name": "Tufts Corp",
+        "email": "cora.thompson@tufts.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Apanavicius Member",
+        "first_name": "Apanavicius",
+        "surname": "Member",
+        "business_name": "Cua Corp",
+        "email": "apanavicius@cua.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Conversewvb Member",
+        "first_name": "Conversewvb",
+        "surname": "Member",
+        "business_name": "Converse Corp",
+        "email": "conversewvb@converse.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bbaker Member",
+        "first_name": "Bbaker",
+        "surname": "Member",
+        "business_name": "Mtaloy Corp",
+        "email": "bbaker@mtaloy.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bgscott Member",
+        "first_name": "Bgscott",
+        "surname": "Member",
+        "business_name": "Alaska Corp",
+        "email": "bgscott2@alaska.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chon Clayton",
+        "first_name": "Chon",
+        "surname": "Clayton",
+        "business_name": "Stmartin Corp",
+        "email": "chon.clayton@stmartin.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Arf Member",
+        "first_name": "Arf",
+        "surname": "Member",
+        "business_name": "Students Corp",
+        "email": "arf6@students.calvin.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cmgregor Member",
+        "first_name": "Cmgregor",
+        "surname": "Member",
+        "business_name": "Uncg Corp",
+        "email": "cmgregor@uncg.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "B Hofman",
+        "first_name": "B",
+        "surname": "Hofman",
+        "business_name": "Onu Corp",
+        "email": "b-hofman@onu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Anieta Cabias",
+        "first_name": "Anieta",
+        "surname": "Cabias",
+        "business_name": "Uvu Corp",
+        "email": "anieta.cabias@uvu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Blockka Member",
+        "first_name": "Blockka",
+        "surname": "Member",
+        "business_name": "Farmingdale Corp",
+        "email": "blockka@farmingdale.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cassellc Member",
+        "first_name": "Cassellc",
+        "surname": "Member",
+        "business_name": "Denison Corp",
+        "email": "cassellc@denison.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cenething Member",
+        "first_name": "Cenething",
+        "surname": "Member",
+        "business_name": "York Corp",
+        "email": "cenething@york.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cmckim Member",
+        "first_name": "Cmckim",
+        "surname": "Member",
+        "business_name": "Sienaheights Corp",
+        "email": "cmckim@sienaheights.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Barkleyf Member",
+        "first_name": "Barkleyf",
+        "surname": "Member",
+        "business_name": "Meredith Corp",
+        "email": "barkleyf@meredith.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cnook Member",
+        "first_name": "Cnook",
+        "surname": "Member",
+        "business_name": "Atu Corp",
+        "email": "cnook@atu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cui Wvolleyball",
+        "first_name": "Cui",
+        "surname": "Wvolleyball",
+        "business_name": "Cui Corp",
+        "email": "cui.wvolleyball@cui.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Candymurphy Member",
+        "first_name": "Candymurphy",
+        "surname": "Member",
+        "business_name": "Boisestate Corp",
+        "email": "candymurphy@boisestate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brandchr Member",
+        "first_name": "Brandchr",
+        "surname": "Member",
+        "business_name": "Niacc Corp",
+        "email": "brandchr@niacc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Anm Dd",
+        "first_name": "Anm",
+        "surname": "Dd",
+        "business_name": "Mail Corp",
+        "email": "anm7dd@mail.missouri.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chrisvu Member",
+        "first_name": "Chrisvu",
+        "surname": "Member",
+        "business_name": "Westcliff Corp",
+        "email": "chrisvu@westcliff.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amanda Chamberlain",
+        "first_name": "Amanda",
+        "surname": "Chamberlain",
+        "business_name": "Unt Corp",
+        "email": "amanda.chamberlain@unt.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ccutenese Member",
+        "first_name": "Ccutenese",
+        "surname": "Member",
+        "business_name": "Occ Corp",
+        "email": "ccutenese@occ.cccd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abuchanan Member",
+        "first_name": "Abuchanan",
+        "surname": "Member",
+        "business_name": "Ucdavis Corp",
+        "email": "abuchanan@ucdavis.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Barryvolleyball Member",
+        "first_name": "Barryvolleyball",
+        "surname": "Member",
+        "business_name": "Barry Corp",
+        "email": "barryvolleyball@barry.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brownc Member",
+        "first_name": "Brownc",
+        "surname": "Member",
+        "business_name": "Floridacollege Corp",
+        "email": "brownc@floridacollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ajgage Member",
+        "first_name": "Ajgage",
+        "surname": "Member",
+        "business_name": "Trevecca Corp",
+        "email": "ajgage@trevecca.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "B Reeves",
+        "first_name": "B",
+        "surname": "Reeves",
+        "business_name": "Ewc Corp",
+        "email": "b.reeves@ewc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alison Williams",
+        "first_name": "Alison",
+        "surname": "Williams",
+        "business_name": "Lmunet Corp",
+        "email": "alison.williams@lmunet.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Areft Member",
+        "first_name": "Areft",
+        "surname": "Member",
+        "business_name": "Sandiego Corp",
+        "email": "areft@sandiego.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Canalesa Member",
+        "first_name": "Canalesa",
+        "surname": "Member",
+        "business_name": "Wncc Corp",
+        "email": "canalesa@wncc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cscavicchio Member",
+        "first_name": "Cscavicchio",
+        "surname": "Member",
+        "business_name": "Ursinus Corp",
+        "email": "cscavicchio@ursinus.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brienna Laskowski",
+        "first_name": "Brienna",
+        "surname": "Laskowski",
+        "business_name": "Mail Corp",
+        "email": "brienna.laskowski@mail.wlc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Carly Cramer",
+        "first_name": "Carly",
+        "surname": "Cramer",
+        "business_name": "Uky Corp",
+        "email": "carly.cramer@uky.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ctorok Member",
+        "first_name": "Ctorok",
+        "surname": "Member",
+        "business_name": "Bradley Corp",
+        "email": "ctorok@bradley.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Armer Member",
+        "first_name": "Armer",
+        "surname": "Member",
+        "business_name": "Ulm Corp",
+        "email": "armer@ulm.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bradley Keenan",
+        "first_name": "Bradley",
+        "surname": "Keenan",
+        "business_name": "Asu Corp",
+        "email": "bradley.keenan@asu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Albana Munrett",
+        "first_name": "Albana",
+        "surname": "Munrett",
+        "business_name": "Purchase Corp",
+        "email": "albana.munrett@purchase.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aarce Member",
+        "first_name": "Aarce",
+        "surname": "Member",
+        "business_name": "Csudh Corp",
+        "email": "aarce@csudh.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Awilson Member",
+        "first_name": "Awilson",
+        "surname": "Member",
+        "business_name": "Athletics Corp",
+        "email": "awilson@athletics.gatech.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brk Member",
+        "first_name": "Brk",
+        "surname": "Member",
+        "business_name": "Psu Corp",
+        "email": "brk5176@psu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Astrauskasc Member",
+        "first_name": "Astrauskasc",
+        "surname": "Member",
+        "business_name": "Ripon Corp",
+        "email": "astrauskasc@ripon.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clara Lowden",
+        "first_name": "Clara",
+        "surname": "Lowden",
+        "business_name": "Rcc Corp",
+        "email": "clara.lowden@rcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amb Member",
+        "first_name": "Amb",
+        "surname": "Member",
+        "business_name": "Nyu Corp",
+        "email": "amb24@nyu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brandon Rosenthal",
+        "first_name": "Brandon",
+        "surname": "Rosenthal",
+        "business_name": "Lipscomb Corp",
+        "email": "brandon.rosenthal@lipscomb.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alilliquist Member",
+        "first_name": "Alilliquist",
+        "surname": "Member",
+        "business_name": "Sjcny Corp",
+        "email": "alilliquist@sjcny.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alyssa Whitney",
+        "first_name": "Alyssa",
+        "surname": "Whitney",
+        "business_name": "Oregonstate Corp",
+        "email": "alyssa.whitney@oregonstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cathomas Member",
+        "first_name": "Cathomas",
+        "surname": "Member",
+        "business_name": "Marymount Corp",
+        "email": "cathomas@marymount.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brianna Lichty",
+        "first_name": "Brianna",
+        "surname": "Lichty",
+        "business_name": "Coyotes Corp",
+        "email": "brianna.lichty@coyotes.usd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Atodorovic Member",
+        "first_name": "Atodorovic",
+        "surname": "Member",
+        "business_name": "Gtest Corp",
+        "email": "atodorovic@gtest.ccny.cuny.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brigitte Greywater",
+        "first_name": "Brigitte",
+        "surname": "Greywater",
+        "business_name": "Vcsu Corp",
+        "email": "brigitte.greywater@vcsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adoerfler Member",
+        "first_name": "Adoerfler",
+        "surname": "Member",
+        "business_name": "Linfield Corp",
+        "email": "adoerfler@linfield.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cole Aiazzi",
+        "first_name": "Cole",
+        "surname": "Aiazzi",
+        "business_name": "Msubobcats Corp",
+        "email": "cole.aiazzi@msubobcats.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Atiernan Member",
+        "first_name": "Atiernan",
+        "surname": "Member",
+        "business_name": "Cn Corp",
+        "email": "atiernan@cn.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Btorado Member",
+        "first_name": "Btorado",
+        "surname": "Member",
+        "business_name": "Ucsc Corp",
+        "email": "btorado@ucsc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aherron Member",
+        "first_name": "Aherron",
+        "surname": "Member",
+        "business_name": "Kckcc Corp",
+        "email": "aherron@kckcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Courtney Johnson",
+        "first_name": "Courtney",
+        "surname": "Johnson",
+        "business_name": "Belmont Corp",
+        "email": "courtney.johnson@belmont.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Beemanse0 Member",
+        "first_name": "Beemanse0",
+        "surname": "Member",
+        "business_name": "Sunyjcc Corp",
+        "email": "beemanse01@sunyjcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cj Nelson",
+        "first_name": "Cj",
+        "surname": "Nelson",
+        "business_name": "Mnwest Corp",
+        "email": "cj.nelson@mnwest.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aheinz Member",
+        "first_name": "Aheinz",
+        "surname": "Member",
+        "business_name": "Methodist Corp",
+        "email": "aheinz@methodist.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Crichardson Member",
+        "first_name": "Crichardson",
+        "surname": "Member",
+        "business_name": "Mail Corp",
+        "email": "crichardson@mail.umhb.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Arc Member",
+        "first_name": "Arc",
+        "surname": "Member",
+        "business_name": "Nyu Corp",
+        "email": "arc723@nyu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Angel Agu",
+        "first_name": "Angel",
+        "surname": "Agu",
+        "business_name": "Uri Corp",
+        "email": "angel_agu@uri.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bkraham Member",
+        "first_name": "Bkraham",
+        "surname": "Member",
+        "business_name": "Albany Corp",
+        "email": "bkraham@albany.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Blackermann Member",
+        "first_name": "Blackermann",
+        "surname": "Member",
+        "business_name": "Umary Corp",
+        "email": "blackermann@umary.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cleak Member",
+        "first_name": "Cleak",
+        "surname": "Member",
+        "business_name": "Lsu Corp",
+        "email": "cleak1@lsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Csmart Member",
+        "first_name": "Csmart",
+        "surname": "Member",
+        "business_name": "Hawks Corp",
+        "email": "csmart@hawks.huntingdon.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adeal Member",
+        "first_name": "Adeal",
+        "surname": "Member",
+        "business_name": "Santarosa Corp",
+        "email": "adeal@santarosa.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Andrew Solomon",
+        "first_name": "Andrew",
+        "surname": "Solomon",
+        "business_name": "Flcc Corp",
+        "email": "andrew.solomon@flcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cdriscoll Member",
+        "first_name": "Cdriscoll",
+        "surname": "Member",
+        "business_name": "Madonna Corp",
+        "email": "cdriscoll@madonna.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bdoyon Member",
+        "first_name": "Bdoyon",
+        "surname": "Member",
+        "business_name": "Athletics Corp",
+        "email": "bdoyon@athletics.ucf.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aheffele Member",
+        "first_name": "Aheffele",
+        "surname": "Member",
+        "business_name": "Lee Corp",
+        "email": "aheffele@lee.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Carferre Member",
+        "first_name": "Carferre",
+        "surname": "Member",
+        "business_name": "Bakersfieldcollege Corp",
+        "email": "carferre@bakersfieldcollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brendan Mcgourn",
+        "first_name": "Brendan",
+        "surname": "Mcgourn",
+        "business_name": "Yale Corp",
+        "email": "brendan.mcgourn@yale.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Casey J",
+        "first_name": "Casey",
+        "surname": "J",
+        "business_name": "Mccd Corp",
+        "email": "casey.j@mccd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cdenner Member",
+        "first_name": "Cdenner",
+        "surname": "Member",
+        "business_name": "Pennhighlands Corp",
+        "email": "cdenner@pennhighlands.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cpb00 Member",
+        "first_name": "Cpb00",
+        "surname": "Member",
+        "business_name": "Uah Corp",
+        "email": "cpb0015@uah.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Banema Member",
+        "first_name": "Banema",
+        "surname": "Member",
+        "business_name": "Liberty Corp",
+        "email": "banema@liberty.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Annebock Member",
+        "first_name": "Annebock",
+        "surname": "Member",
+        "business_name": "Andrew Corp",
+        "email": "annebock@andrew.cmu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Camilla Hafoka",
+        "first_name": "Camilla",
+        "surname": "Hafoka",
+        "business_name": "Dixie Corp",
+        "email": "camilla.hafoka@dixie.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Casey Curran",
+        "first_name": "Casey",
+        "surname": "Curran",
+        "business_name": "Pba Corp",
+        "email": "casey_curran@pba.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Burtonm Member",
+        "first_name": "Burtonm",
+        "surname": "Member",
+        "business_name": "Up Corp",
+        "email": "burtonm@up.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aarbogast Member",
+        "first_name": "Aarbogast",
+        "surname": "Member",
+        "business_name": "Lindenwood Corp",
+        "email": "aarbogast@lindenwood.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ashton Wheeler",
+        "first_name": "Ashton",
+        "surname": "Wheeler",
+        "business_name": "Northwestu Corp",
+        "email": "ashton.wheeler@northwestu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ayin Member",
+        "first_name": "Ayin",
+        "surname": "Member",
+        "business_name": "Friends Corp",
+        "email": "ayin@friends.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cschweihofer Member",
+        "first_name": "Cschweihofer",
+        "surname": "Member",
+        "business_name": "Scarletknights Corp",
+        "email": "cschweihofer@scarletknights.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cmedlock Member",
+        "first_name": "Cmedlock",
+        "surname": "Member",
+        "business_name": "Pierce Corp",
+        "email": "cmedlock@pierce.ctc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bdodson Member",
+        "first_name": "Bdodson",
+        "surname": "Member",
+        "business_name": "Missouriwestern Corp",
+        "email": "bdodson1@missouriwestern.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cvieraalzueta Member",
+        "first_name": "Cvieraalzueta",
+        "surname": "Member",
+        "business_name": "Smith Corp",
+        "email": "cvieraalzueta@smith.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Beth Raebel",
+        "first_name": "Beth",
+        "surname": "Raebel",
+        "business_name": "Uwrf Corp",
+        "email": "beth.raebel@uwrf.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cstevens Member",
+        "first_name": "Cstevens",
+        "surname": "Member",
+        "business_name": "Athletics Corp",
+        "email": "cstevens@athletics.ucf.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Courtney Materazzi",
+        "first_name": "Courtney",
+        "surname": "Materazzi",
+        "business_name": "Gmail Corp",
+        "email": "courtney.materazzi@gmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abfuller Member",
+        "first_name": "Abfuller",
+        "surname": "Member",
+        "business_name": "Stanford Corp",
+        "email": "abfuller@stanford.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cregadioauberry Member",
+        "first_name": "Cregadioauberry",
+        "surname": "Member",
+        "business_name": "Compton Corp",
+        "email": "cregadioauberry@compton.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Balleton Member",
+        "first_name": "Balleton",
+        "surname": "Member",
+        "business_name": "Mtmary Corp",
+        "email": "balleton@mtmary.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brittney Mcnab",
+        "first_name": "Brittney",
+        "surname": "Mcnab",
+        "business_name": "Mnwest Corp",
+        "email": "brittney.mcnab@mnwest.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Awiley Member",
+        "first_name": "Awiley",
+        "surname": "Member",
+        "business_name": "Lawsonstate Corp",
+        "email": "awiley@lawsonstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brussell Member",
+        "first_name": "Brussell",
+        "surname": "Member",
+        "business_name": "Worcester Corp",
+        "email": "brussell1@worcester.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Belella Member",
+        "first_name": "Belella",
+        "surname": "Member",
+        "business_name": "Hood Corp",
+        "email": "belella@hood.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cade Smith",
+        "first_name": "Cade",
+        "surname": "Smith",
+        "business_name": "Uah Corp",
+        "email": "cade.smith@uah.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ccpoole Member",
+        "first_name": "Ccpoole",
+        "surname": "Member",
+        "business_name": "Fsu Corp",
+        "email": "ccpoole@fsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cgurnell Member",
+        "first_name": "Cgurnell",
+        "surname": "Member",
+        "business_name": "Purdue Corp",
+        "email": "cgurnell@purdue.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Candace Moats",
+        "first_name": "Candace",
+        "surname": "Moats",
+        "business_name": "Indwes Corp",
+        "email": "candace.moats@indwes.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alejandra Jimenez",
+        "first_name": "Alejandra",
+        "surname": "Jimenez",
+        "business_name": "Kwc Corp",
+        "email": "alejandra.jimenez@kwc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bmgerwig Member",
+        "first_name": "Bmgerwig",
+        "surname": "Member",
+        "business_name": "Central Corp",
+        "email": "bmgerwig@central.uh.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bvilsoet Member",
+        "first_name": "Bvilsoet",
+        "surname": "Member",
+        "business_name": "Harpercollege Corp",
+        "email": "bvilsoet@harpercollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cmckeon Member",
+        "first_name": "Cmckeon",
+        "surname": "Member",
+        "business_name": "Pct Corp",
+        "email": "cmckeon@pct.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Burtkd Member",
+        "first_name": "Burtkd",
+        "surname": "Member",
+        "business_name": "Stthom Corp",
+        "email": "burtkd@stthom.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cmtopolski Member",
+        "first_name": "Cmtopolski",
+        "surname": "Member",
+        "business_name": "Indianatech Corp",
+        "email": "cmtopolski@indianatech.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alicia Wood",
+        "first_name": "Alicia",
+        "surname": "Wood",
+        "business_name": "Ic Corp",
+        "email": "alicia.wood@ic.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bhoo Member",
+        "first_name": "Bhoo",
+        "surname": "Member",
+        "business_name": "Tjc Corp",
+        "email": "bhoo@tjc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cpeterson Member",
+        "first_name": "Cpeterson",
+        "surname": "Member",
+        "business_name": "Ucmo Corp",
+        "email": "cpeterson@ucmo.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Apetrid Member",
+        "first_name": "Apetrid",
+        "surname": "Member",
+        "business_name": "Jhu Corp",
+        "email": "apetrid1@jhu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Arolfzen Member",
+        "first_name": "Arolfzen",
+        "surname": "Member",
+        "business_name": "Bradley Corp",
+        "email": "arolfzen@bradley.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bhiga Member",
+        "first_name": "Bhiga",
+        "surname": "Member",
+        "business_name": "Calbaptist Corp",
+        "email": "bhiga@calbaptist.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Becker Member",
+        "first_name": "Becker",
+        "surname": "Member",
+        "business_name": "Augsburg Corp",
+        "email": "becker@augsburg.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Angela Rock",
+        "first_name": "Angela",
+        "surname": "Rock",
+        "business_name": "Stanford Corp",
+        "email": "angela.rock@stanford.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Apetak Member",
+        "first_name": "Apetak",
+        "surname": "Member",
+        "business_name": "Regis Corp",
+        "email": "apetak@regis.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amandasnyder Member",
+        "first_name": "Amandasnyder",
+        "surname": "Member",
+        "business_name": "Ccu Corp",
+        "email": "amandasnyder@ccu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Carlston Member",
+        "first_name": "Carlston",
+        "surname": "Member",
+        "business_name": "Ohio Corp",
+        "email": "carlston@ohio.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bsolomon Member",
+        "first_name": "Bsolomon",
+        "surname": "Member",
+        "business_name": "Mtech Corp",
+        "email": "bsolomon@mtech.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Anselmj Member",
+        "first_name": "Anselmj",
+        "surname": "Member",
+        "business_name": "Wlac Corp",
+        "email": "anselmj@wlac.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Blairag Member",
+        "first_name": "Blairag",
+        "surname": "Member",
+        "business_name": "Sfasu Corp",
+        "email": "blairag@sfasu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aleesha Cleaver",
+        "first_name": "Aleesha",
+        "surname": "Cleaver",
+        "business_name": "Wmpenn Corp",
+        "email": "aleesha.cleaver@wmpenn.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cuppless Member",
+        "first_name": "Cuppless",
+        "surname": "Member",
+        "business_name": "Bethelu Corp",
+        "email": "cuppless@bethelu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cappi Member",
+        "first_name": "Cappi",
+        "surname": "Member",
+        "business_name": "Misericordia Corp",
+        "email": "cappi@misericordia.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "A Smith",
+        "first_name": "A",
+        "surname": "Smith",
+        "business_name": "Usciences Corp",
+        "email": "a.smith@usciences.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alexandria Dowdall",
+        "first_name": "Alexandria",
+        "surname": "Dowdall",
+        "business_name": "Mcc Corp",
+        "email": "alexandria.dowdall@mcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abenning Member",
+        "first_name": "Abenning",
+        "surname": "Member",
+        "business_name": "Sports Corp",
+        "email": "abenning@sports.uga.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cpconser Member",
+        "first_name": "Cpconser",
+        "surname": "Member",
+        "business_name": "Geneva Corp",
+        "email": "cpconser@geneva.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clcooper Member",
+        "first_name": "Clcooper",
+        "surname": "Member",
+        "business_name": "Newhaven Corp",
+        "email": "clcooper@newhaven.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chelsear Member",
+        "first_name": "Chelsear",
+        "surname": "Member",
+        "business_name": "Nmsu Corp",
+        "email": "chelsear@nmsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Awarners Member",
+        "first_name": "Awarners",
+        "surname": "Member",
+        "business_name": "Calvin Corp",
+        "email": "awarners@calvin.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brownjt Member",
+        "first_name": "Brownjt",
+        "surname": "Member",
+        "business_name": "Denison Corp",
+        "email": "brownjt@denison.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aawilliams Member",
+        "first_name": "Aawilliams",
+        "surname": "Member",
+        "business_name": "Iwcc Corp",
+        "email": "aawilliams@iwcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Andres Member",
+        "first_name": "Andres",
+        "surname": "Member",
+        "business_name": "Otterbein Corp",
+        "email": "andres2@otterbein.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ap 0",
+        "first_name": "Ap",
+        "surname": "0",
+        "business_name": "Stmarys-ca Corp",
+        "email": "ap30@stmarys-ca.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abecerra Member",
+        "first_name": "Abecerra",
+        "surname": "Member",
+        "business_name": "Lec Corp",
+        "email": "abecerra@lec.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ajjohnson Member",
+        "first_name": "Ajjohnson",
+        "surname": "Member",
+        "business_name": "Cau Corp",
+        "email": "ajjohnson3@cau.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aaron Mansfield",
+        "first_name": "Aaron",
+        "surname": "Mansfield",
+        "business_name": "Lmu Corp",
+        "email": "aaron.mansfield@lmu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alexisi Member",
+        "first_name": "Alexisi",
+        "surname": "Member",
+        "business_name": "Mailbox Corp",
+        "email": "alexisi@mailbox.sc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amiller Member",
+        "first_name": "Amiller",
+        "surname": "Member",
+        "business_name": "Cottey Corp",
+        "email": "amiller@cottey.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clthomp Member",
+        "first_name": "Clthomp",
+        "surname": "Member",
+        "business_name": "Stanford Corp",
+        "email": "clthomp@stanford.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clindsay Member",
+        "first_name": "Clindsay",
+        "surname": "Member",
+        "business_name": "Ecok Corp",
+        "email": "clindsay@ecok.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cmurphy Member",
+        "first_name": "Cmurphy",
+        "surname": "Member",
+        "business_name": "Leeuniversity Corp",
+        "email": "cmurphy@leeuniversity.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adleevanwinden Member",
+        "first_name": "Adleevanwinden",
+        "surname": "Member",
+        "business_name": "Ucsb Corp",
+        "email": "adleevanwinden@ucsb.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amandaglaza Member",
+        "first_name": "Amandaglaza",
+        "surname": "Member",
+        "business_name": "Grcc Corp",
+        "email": "amandaglaza@grcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Arivers 0",
+        "first_name": "Arivers",
+        "surname": "0",
+        "business_name": "Hotmail Corp",
+        "email": "arivers10@hotmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chrisgreen Member",
+        "first_name": "Chrisgreen",
+        "surname": "Member",
+        "business_name": "Alaska Corp",
+        "email": "chrisgreen@alaska.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chelsea Hinck",
+        "first_name": "Chelsea",
+        "surname": "Hinck",
+        "business_name": "Willistonstate Corp",
+        "email": "chelsea.hinck@willistonstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amccreary Member",
+        "first_name": "Amccreary",
+        "surname": "Member",
+        "business_name": "Academyart Corp",
+        "email": "amccreary@academyart.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amalchoff Member",
+        "first_name": "Amalchoff",
+        "surname": "Member",
+        "business_name": "Haskell Corp",
+        "email": "amalchoff@haskell.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ahodgson Member",
+        "first_name": "Ahodgson",
+        "surname": "Member",
+        "business_name": "Ocean Corp",
+        "email": "ahodgson@ocean.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amackin Member",
+        "first_name": "Amackin",
+        "surname": "Member",
+        "business_name": "Jessup Corp",
+        "email": "amackin@jessup.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aak Member",
+        "first_name": "Aak",
+        "surname": "Member",
+        "business_name": "Lehigh Corp",
+        "email": "aak618@lehigh.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bowilliams Member",
+        "first_name": "Bowilliams",
+        "surname": "Member",
+        "business_name": "Ucdavis Corp",
+        "email": "bowilliams@ucdavis.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aerickson Member",
+        "first_name": "Aerickson",
+        "surname": "Member",
+        "business_name": "Uca Corp",
+        "email": "aerickson2@uca.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Allieboo Member",
+        "first_name": "Allieboo",
+        "surname": "Member",
+        "business_name": "Gmail Corp",
+        "email": "allieboo6296@gmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Carlykempton Member",
+        "first_name": "Carlykempton",
+        "surname": "Member",
+        "business_name": "Wmpenn Corp",
+        "email": "carlykempton@wmpenn.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brandsm Member",
+        "first_name": "Brandsm",
+        "surname": "Member",
+        "business_name": "Unk Corp",
+        "email": "brandsm@unk.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bryant Tran",
+        "first_name": "Bryant",
+        "surname": "Tran",
+        "business_name": "Menlo Corp",
+        "email": "bryant.tran@menlo.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ailkson Member",
+        "first_name": "Ailkson",
+        "surname": "Member",
+        "business_name": "Gmu Corp",
+        "email": "ailkson@gmu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abohne Member",
+        "first_name": "Abohne",
+        "surname": "Member",
+        "business_name": "Rollins Corp",
+        "email": "abohne@rollins.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bryantj0 Member",
+        "first_name": "Bryantj0",
+        "surname": "Member",
+        "business_name": "Fvsu Corp",
+        "email": "bryantj01@fvsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Csmith Member",
+        "first_name": "Csmith",
+        "surname": "Member",
+        "business_name": "Lowercolumbia Corp",
+        "email": "csmith@lowercolumbia.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clay Timmons",
+        "first_name": "Clay",
+        "surname": "Timmons",
+        "business_name": "Canyons Corp",
+        "email": "clay.timmons@canyons.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bernson Member",
+        "first_name": "Bernson",
+        "surname": "Member",
+        "business_name": "Gwu Corp",
+        "email": "bernson@gwu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Athibod Member",
+        "first_name": "Athibod",
+        "surname": "Member",
+        "business_name": "Uno Corp",
+        "email": "athibod3@uno.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Allie Matters",
+        "first_name": "Allie",
+        "surname": "Matters",
+        "business_name": "Wright Corp",
+        "email": "allie.matters@wright.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ashia Joseph",
+        "first_name": "Ashia",
+        "surname": "Joseph",
+        "business_name": "Csueastbay Corp",
+        "email": "ashia.joseph@csueastbay.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bwhitt Member",
+        "first_name": "Bwhitt",
+        "surname": "Member",
+        "business_name": "Jessup Corp",
+        "email": "bwhitt@jessup.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Angela Smith",
+        "first_name": "Angela",
+        "surname": "Smith",
+        "business_name": "Gmail Corp",
+        "email": "angela3smith@gmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Augsts Member",
+        "first_name": "Augsts",
+        "surname": "Member",
+        "business_name": "Sage Corp",
+        "email": "augsts@sage.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Coachwilj Member",
+        "first_name": "Coachwilj",
+        "surname": "Member",
+        "business_name": "Gmail Corp",
+        "email": "coachwilj@gmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Colleen Stengel",
+        "first_name": "Colleen",
+        "surname": "Stengel",
+        "business_name": "Cortland Corp",
+        "email": "colleen.stengel@cortland.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Burnetl Member",
+        "first_name": "Burnetl",
+        "surname": "Member",
+        "business_name": "Scf Corp",
+        "email": "burnetl@scf.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chris Herron",
+        "first_name": "Chris",
+        "surname": "Herron",
+        "business_name": "Washburn Corp",
+        "email": "chris.herron@washburn.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aquiles Member",
+        "first_name": "Aquiles",
+        "surname": "Member",
+        "business_name": "Pdx Corp",
+        "email": "aquiles@pdx.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Akish Member",
+        "first_name": "Akish",
+        "surname": "Member",
+        "business_name": "Ccp Corp",
+        "email": "akish@ccp.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Allison Yaeger",
+        "first_name": "Allison",
+        "surname": "Yaeger",
+        "business_name": "Shu Corp",
+        "email": "allison.yaeger@shu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alyssa Shores",
+        "first_name": "Alyssa",
+        "surname": "Shores",
+        "business_name": "Salem Corp",
+        "email": "alyssa.shores@salem.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Allisonkuster Member",
+        "first_name": "Allisonkuster",
+        "surname": "Member",
+        "business_name": "Letu Corp",
+        "email": "allisonkuster@letu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Courtney Nordby",
+        "first_name": "Courtney",
+        "surname": "Nordby",
+        "business_name": "Northlandcollege Corp",
+        "email": "courtney.nordby@northlandcollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abigail Saehler",
+        "first_name": "Abigail",
+        "surname": "Saehler",
+        "business_name": "Gcu Corp",
+        "email": "abigail.saehler@gcu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Akroger Member",
+        "first_name": "Akroger",
+        "surname": "Member",
+        "business_name": "Una Corp",
+        "email": "akroger@una.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ckline Member",
+        "first_name": "Ckline",
+        "surname": "Member",
+        "business_name": "Bethanywv Corp",
+        "email": "ckline@bethanywv.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bestes Member",
+        "first_name": "Bestes",
+        "surname": "Member",
+        "business_name": "Lipscomb Corp",
+        "email": "bestes@lipscomb.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ansato Member",
+        "first_name": "Ansato",
+        "surname": "Member",
+        "business_name": "Fullerton Corp",
+        "email": "ansato@fullerton.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cdmeyer Member",
+        "first_name": "Cdmeyer",
+        "surname": "Member",
+        "business_name": "Wpi Corp",
+        "email": "cdmeyer@wpi.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brooke Robertson",
+        "first_name": "Brooke",
+        "surname": "Robertson",
+        "business_name": "Alvernia Corp",
+        "email": "brooke.robertson@alvernia.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abarmore Member",
+        "first_name": "Abarmore",
+        "surname": "Member",
+        "business_name": "Transy Corp",
+        "email": "abarmore@transy.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ajeffrey Member",
+        "first_name": "Ajeffrey",
+        "surname": "Member",
+        "business_name": "Iwcc Corp",
+        "email": "ajeffrey@iwcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Courtowyang Member",
+        "first_name": "Courtowyang",
+        "surname": "Member",
+        "business_name": "Gmail Corp",
+        "email": "courtowyang@gmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amscott0 Member",
+        "first_name": "Amscott0",
+        "surname": "Member",
+        "business_name": "Ysu Corp",
+        "email": "amscott07@ysu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bonetti Member",
+        "first_name": "Bonetti",
+        "surname": "Member",
+        "business_name": "Umd Corp",
+        "email": "bonetti@umd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Acapone Member",
+        "first_name": "Acapone",
+        "surname": "Member",
+        "business_name": "Hamilton Corp",
+        "email": "acapone@hamilton.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Arthura Member",
+        "first_name": "Arthura",
+        "surname": "Member",
+        "business_name": "Clarkstate Corp",
+        "email": "arthura@clarkstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clavery Member",
+        "first_name": "Clavery",
+        "surname": "Member",
+        "business_name": "Lenoircc Corp",
+        "email": "clavery15@lenoircc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Coshaughnessy Member",
+        "first_name": "Coshaughnessy",
+        "surname": "Member",
+        "business_name": "Jcu Corp",
+        "email": "coshaughnessy17@jcu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amezacapa Member",
+        "first_name": "Amezacapa",
+        "surname": "Member",
+        "business_name": "Ndc Corp",
+        "email": "amezacapa@ndc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Backset Member",
+        "first_name": "Backset",
+        "surname": "Member",
+        "business_name": "Gmail Corp",
+        "email": "backset88@gmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ckasianowicz Member",
+        "first_name": "Ckasianowicz",
+        "surname": "Member",
+        "business_name": "Keuka Corp",
+        "email": "ckasianowicz@keuka.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ant B",
+        "first_name": "Ant",
+        "surname": "B",
+        "business_name": "Acu Corp",
+        "email": "ant19b@acu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Batemanr Member",
+        "first_name": "Batemanr",
+        "surname": "Member",
+        "business_name": "Rlc Corp",
+        "email": "batemanr@rlc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Acampbell Member",
+        "first_name": "Acampbell",
+        "surname": "Member",
+        "business_name": "Umobile Corp",
+        "email": "acampbell@umobile.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alrodriguez Member",
+        "first_name": "Alrodriguez",
+        "surname": "Member",
+        "business_name": "Northwestern Corp",
+        "email": "alrodriguez@northwestern.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cathygeorge Member",
+        "first_name": "Cathygeorge",
+        "surname": "Member",
+        "business_name": "Ath Corp",
+        "email": "cathygeorge@ath.msu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cfabre Member",
+        "first_name": "Cfabre",
+        "surname": "Member",
+        "business_name": "Uu Corp",
+        "email": "cfabre@uu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brithney Scott",
+        "first_name": "Brithney",
+        "surname": "Scott",
+        "business_name": "Mvsu Corp",
+        "email": "brithney.scott@mvsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bolletinof Member",
+        "first_name": "Bolletinof",
+        "surname": "Member",
+        "business_name": "Duq Corp",
+        "email": "bolletinof@duq.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aatnip0 Member",
+        "first_name": "Aatnip0",
+        "surname": "Member",
+        "business_name": "Clevelandstatecc Corp",
+        "email": "aatnip01@clevelandstatecc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bart 0",
+        "first_name": "Bart",
+        "surname": "0",
+        "business_name": "Cecil Corp",
+        "email": "bart2805@cecil.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Crhart Member",
+        "first_name": "Crhart",
+        "surname": "Member",
+        "business_name": "Gmail Corp",
+        "email": "crhart24@gmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aaragon Member",
+        "first_name": "Aaragon",
+        "surname": "Member",
+        "business_name": "Oakton Corp",
+        "email": "aaragon@oakton.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aeveach Member",
+        "first_name": "Aeveach",
+        "surname": "Member",
+        "business_name": "Uab Corp",
+        "email": "aeveach@uab.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brooke Alverson",
+        "first_name": "Brooke",
+        "surname": "Alverson",
+        "business_name": "Navarrocollege Corp",
+        "email": "brooke.alverson@navarrocollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Baumgartnera Member",
+        "first_name": "Baumgartnera",
+        "surname": "Member",
+        "business_name": "Lakeland Corp",
+        "email": "baumgartnera@lakeland.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brobinson Member",
+        "first_name": "Brobinson",
+        "surname": "Member",
+        "business_name": "Academyart Corp",
+        "email": "brobinson@academyart.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bergeral Member",
+        "first_name": "Bergeral",
+        "surname": "Member",
+        "business_name": "Uwec Corp",
+        "email": "bergeral@uwec.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cmalonson Member",
+        "first_name": "Cmalonson",
+        "surname": "Member",
+        "business_name": "Lanecollege Corp",
+        "email": "cmalonson@lanecollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Birkichts Member",
+        "first_name": "Birkichts",
+        "surname": "Member",
+        "business_name": "Uwplatt Corp",
+        "email": "birkichts@uwplatt.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abdul Chamma",
+        "first_name": "Abdul",
+        "surname": "Chamma",
+        "business_name": "Northlandcollege Corp",
+        "email": "abdul.chamma@northlandcollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abird Member",
+        "first_name": "Abird",
+        "surname": "Member",
+        "business_name": "Colgate Corp",
+        "email": "abird@colgate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adeloid Member",
+        "first_name": "Adeloid",
+        "surname": "Member",
+        "business_name": "Stevens Corp",
+        "email": "adeloid@stevens.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Apauly Member",
+        "first_name": "Apauly",
+        "surname": "Member",
+        "business_name": "Usc Corp",
+        "email": "apauly@usc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Angraham Member",
+        "first_name": "Angraham",
+        "surname": "Member",
+        "business_name": "Austincollege Corp",
+        "email": "angraham@austincollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bronneh Member",
+        "first_name": "Bronneh",
+        "surname": "Member",
+        "business_name": "Thomasmore Corp",
+        "email": "bronneh@thomasmore.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ariel Apolinariovera",
+        "first_name": "Ariel",
+        "surname": "Apolinariovera",
+        "business_name": "Navarrocollege Corp",
+        "email": "ariel.apolinariovera@navarrocollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cristine Member",
+        "first_name": "Cristine",
+        "surname": "Member",
+        "business_name": "Smu Corp",
+        "email": "cristine@smu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bj Staupe",
+        "first_name": "Bj",
+        "surname": "Staupe",
+        "business_name": "Wiu Corp",
+        "email": "bj-staupe@wiu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cshingler Member",
+        "first_name": "Cshingler",
+        "surname": "Member",
+        "business_name": "Wtamu Corp",
+        "email": "cshingler@wtamu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alyssa Klostermann",
+        "first_name": "Alyssa",
+        "surname": "Klostermann",
+        "business_name": "Iowavolleyball Corp",
+        "email": "alyssa-klostermann@iowavolleyball.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ann Behm",
+        "first_name": "Ann",
+        "surname": "Behm",
+        "business_name": "Gallaudet Corp",
+        "email": "ann.behm@gallaudet.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Anuckols Member",
+        "first_name": "Anuckols",
+        "surname": "Member",
+        "business_name": "Norwich Corp",
+        "email": "anuckols@norwich.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Carlyhoward Member",
+        "first_name": "Carlyhoward",
+        "surname": "Member",
+        "business_name": "Callutheran Corp",
+        "email": "carlyhoward@callutheran.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bauders Member",
+        "first_name": "Bauders",
+        "surname": "Member",
+        "business_name": "Moravian Corp",
+        "email": "bauders@moravian.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ahanley Member",
+        "first_name": "Ahanley",
+        "surname": "Member",
+        "business_name": "Schreiner Corp",
+        "email": "ahanley@schreiner.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aregan Member",
+        "first_name": "Aregan",
+        "surname": "Member",
+        "business_name": "Drew Corp",
+        "email": "aregan@drew.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Athletics Member",
+        "first_name": "Athletics",
+        "surname": "Member",
+        "business_name": "Anokaramsey Corp",
+        "email": "athletics@anokaramsey.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abielby Member",
+        "first_name": "Abielby",
+        "surname": "Member",
+        "business_name": "Cscc Corp",
+        "email": "abielby@cscc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Angela Boldt",
+        "first_name": "Angela",
+        "surname": "Boldt",
+        "business_name": "Cune Corp",
+        "email": "angela.boldt@cune.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Caruse Member",
+        "first_name": "Caruse",
+        "surname": "Member",
+        "business_name": "Wittenberg Corp",
+        "email": "caruse@wittenberg.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bfrosenberg Member",
+        "first_name": "Bfrosenberg",
+        "surname": "Member",
+        "business_name": "Bsu Corp",
+        "email": "bfrosenberg@bsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Allyne Member",
+        "first_name": "Allyne",
+        "surname": "Member",
+        "business_name": "Ncsu Corp",
+        "email": "allyne@ncsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chris Schaffer",
+        "first_name": "Chris",
+        "surname": "Schaffer",
+        "business_name": "Cornerstone Corp",
+        "email": "chris.schaffer@cornerstone.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alimccolloch Member",
+        "first_name": "Alimccolloch",
+        "surname": "Member",
+        "business_name": "Ucdavis Corp",
+        "email": "alimccolloch@ucdavis.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Adrichardson Member",
+        "first_name": "Adrichardson",
+        "surname": "Member",
+        "business_name": "Wesleyancollege Corp",
+        "email": "adrichardson@wesleyancollege.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bethany Martin",
+        "first_name": "Bethany",
+        "surname": "Martin",
+        "business_name": "Utoledo Corp",
+        "email": "bethany.martin3@utoledo.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alexenavarro Member",
+        "first_name": "Alexenavarro",
+        "surname": "Member",
+        "business_name": "Multnomah Corp",
+        "email": "alexenavarro@multnomah.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bmackie Member",
+        "first_name": "Bmackie",
+        "surname": "Member",
+        "business_name": "Scu Corp",
+        "email": "bmackie@scu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cbrattley Member",
+        "first_name": "Cbrattley",
+        "surname": "Member",
+        "business_name": "Kutztown Corp",
+        "email": "cbrattley@kutztown.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Arritson 0",
+        "first_name": "Arritson",
+        "surname": "0",
+        "business_name": "Muleriders Corp",
+        "email": "arritson2059@muleriders.saumag.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Beaumona Member",
+        "first_name": "Beaumona",
+        "surname": "Member",
+        "business_name": "Mcpherson Corp",
+        "email": "beaumona@mcpherson.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Beachrecruiting Member",
+        "first_name": "Beachrecruiting",
+        "surname": "Member",
+        "business_name": "Eckerd Corp",
+        "email": "beachrecruiting@eckerd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alelaus Member",
+        "first_name": "Alelaus",
+        "surname": "Member",
+        "business_name": "Email Corp",
+        "email": "alelaus@email.ecok.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Arica Nassar",
+        "first_name": "Arica",
+        "surname": "Nassar",
+        "business_name": "Oregonstate Corp",
+        "email": "arica.nassar@oregonstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aheld Member",
+        "first_name": "Aheld",
+        "surname": "Member",
+        "business_name": "Kennesaw Corp",
+        "email": "aheld2@kennesaw.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Carin Avery",
+        "first_name": "Carin",
+        "surname": "Avery",
+        "business_name": "Valpo Corp",
+        "email": "carin.avery@valpo.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clmcgowan Member",
+        "first_name": "Clmcgowan",
+        "surname": "Member",
+        "business_name": "Carlow Corp",
+        "email": "clmcgowan@carlow.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Christopher Ollis",
+        "first_name": "Christopher",
+        "surname": "Ollis",
+        "business_name": "Jefferson Corp",
+        "email": "christopher.ollis@jefferson.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bobbi Petersen",
+        "first_name": "Bobbi",
+        "surname": "Petersen",
+        "business_name": "Uni Corp",
+        "email": "bobbi.petersen@uni.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Camshoff Member",
+        "first_name": "Camshoff",
+        "surname": "Member",
+        "business_name": "Fau Corp",
+        "email": "camshoff@fau.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Coachcaywood Member",
+        "first_name": "Coachcaywood",
+        "surname": "Member",
+        "business_name": "Gmail Corp",
+        "email": "coachcaywood@gmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Barry Rymer",
+        "first_name": "Barry",
+        "surname": "Rymer",
+        "business_name": "Salem Corp",
+        "email": "barry.rymer@salem.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alyssa Baumhover",
+        "first_name": "Alyssa",
+        "surname": "Baumhover",
+        "business_name": "Clarke Corp",
+        "email": "alyssa.baumhover@clarke.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brittany Harry",
+        "first_name": "Brittany",
+        "surname": "Harry",
+        "business_name": "Tamiu Corp",
+        "email": "brittany.harry@tamiu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aberkley Member",
+        "first_name": "Aberkley",
+        "surname": "Member",
+        "business_name": "Luc Corp",
+        "email": "aberkley@luc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aguerci Member",
+        "first_name": "Aguerci",
+        "surname": "Member",
+        "business_name": "Fiu Corp",
+        "email": "aguerci@fiu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ashlyn Spay",
+        "first_name": "Ashlyn",
+        "surname": "Spay",
+        "business_name": "Student Corp",
+        "email": "ashlyn.spay@student.judsonu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Beau Member",
+        "first_name": "Beau",
+        "surname": "Member",
+        "business_name": "Olemiss Corp",
+        "email": "beau@olemiss.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alexvenardos Member",
+        "first_name": "Alexvenardos",
+        "surname": "Member",
+        "business_name": "Boisestate Corp",
+        "email": "alexvenardos@boisestate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abeyer Member",
+        "first_name": "Abeyer",
+        "surname": "Member",
+        "business_name": "Gsu Corp",
+        "email": "abeyer@gsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Billburnside Member",
+        "first_name": "Billburnside",
+        "surname": "Member",
+        "business_name": "Jalc Corp",
+        "email": "billburnside@jalc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Andrewfischer Member",
+        "first_name": "Andrewfischer",
+        "surname": "Member",
+        "business_name": "Berkeley Corp",
+        "email": "andrewfischer@berkeley.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bcaraccilo Member",
+        "first_name": "Bcaraccilo",
+        "surname": "Member",
+        "business_name": "Csustan Corp",
+        "email": "bcaraccilo@csustan.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amber Haver",
+        "first_name": "Amber",
+        "surname": "Haver",
+        "business_name": "Ciu Corp",
+        "email": "amber.haver@ciu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cammayce Member",
+        "first_name": "Cammayce",
+        "surname": "Member",
+        "business_name": "Lahc Corp",
+        "email": "cammayce@lahc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Calvin Volleyballrecruiting",
+        "first_name": "Calvin",
+        "surname": "Volleyballrecruiting",
+        "business_name": "Gmail Corp",
+        "email": "calvin.volleyballrecruiting@gmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chloe Solum",
+        "first_name": "Chloe",
+        "surname": "Solum",
+        "business_name": "Mnstate Corp",
+        "email": "chloe.solum@mnstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bberkimer Member",
+        "first_name": "Bberkimer",
+        "surname": "Member",
+        "business_name": "Whitworth Corp",
+        "email": "bberkimer@whitworth.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bgray Member",
+        "first_name": "Bgray",
+        "surname": "Member",
+        "business_name": "Shsu Corp",
+        "email": "bgray@shsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bnetzler Member",
+        "first_name": "Bnetzler",
+        "surname": "Member",
+        "business_name": "Davenport Corp",
+        "email": "bnetzler@davenport.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clpindra Member",
+        "first_name": "Clpindra",
+        "surname": "Member",
+        "business_name": "Mtu Corp",
+        "email": "clpindra@mtu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Acoyle Member",
+        "first_name": "Acoyle",
+        "surname": "Member",
+        "business_name": "Ohiochristian Corp",
+        "email": "acoyle@ohiochristian.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Acewalt Member",
+        "first_name": "Acewalt",
+        "surname": "Member",
+        "business_name": "Olivet Corp",
+        "email": "acewalt@olivet.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chguinyard Member",
+        "first_name": "Chguinyard",
+        "surname": "Member",
+        "business_name": "Claflin Corp",
+        "email": "chguinyard@claflin.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ccrosby Member",
+        "first_name": "Ccrosby",
+        "surname": "Member",
+        "business_name": "Hilbert Corp",
+        "email": "ccrosby@hilbert.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ardavid Member",
+        "first_name": "Ardavid",
+        "surname": "Member",
+        "business_name": "Albertus Corp",
+        "email": "ardavid@albertus.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "C D Voss",
+        "first_name": "C",
+        "surname": "D Voss",
+        "business_name": "Csuohio Corp",
+        "email": "c.d.voss@csuohio.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Azitzow Member",
+        "first_name": "Azitzow",
+        "surname": "Member",
+        "business_name": "Morris Corp",
+        "email": "azitzow@morris.umn.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bcoleman Member",
+        "first_name": "Bcoleman",
+        "surname": "Member",
+        "business_name": "Ycusd Corp",
+        "email": "bcoleman@ycusd.org",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cailyn Straubel",
+        "first_name": "Cailyn",
+        "surname": "Straubel",
+        "business_name": "Colby-sawyer Corp",
+        "email": "cailyn.straubel@colby-sawyer.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Colebb Member",
+        "first_name": "Colebb",
+        "surname": "Member",
+        "business_name": "Farmingdale Corp",
+        "email": "colebb@farmingdale.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ashley Bryant",
+        "first_name": "Ashley",
+        "surname": "Bryant",
+        "business_name": "Cncc Corp",
+        "email": "ashley.bryant@cncc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aw 0",
+        "first_name": "Aw",
+        "surname": "0",
+        "business_name": "Illinois Corp",
+        "email": "aw601@illinois.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Billingsley Member",
+        "first_name": "Billingsley",
+        "surname": "Member",
+        "business_name": "Hnu Corp",
+        "email": "billingsley@hnu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bryndon Paulsen",
+        "first_name": "Bryndon",
+        "surname": "Paulsen",
+        "business_name": "Clarke Corp",
+        "email": "bryndon.paulsen@clarke.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Condrocv Member",
+        "first_name": "Condrocv",
+        "surname": "Member",
+        "business_name": "Jmu Corp",
+        "email": "condrocv@jmu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chris Brees",
+        "first_name": "Chris",
+        "surname": "Brees",
+        "business_name": "Iavalley Corp",
+        "email": "chris.brees@iavalley.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Corbellir Member",
+        "first_name": "Corbellir",
+        "surname": "Member",
+        "business_name": "Missouri Corp",
+        "email": "corbellir@missouri.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aganus Member",
+        "first_name": "Aganus",
+        "surname": "Member",
+        "business_name": "Marshall Corp",
+        "email": "aganus@marshall.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bullockcp Member",
+        "first_name": "Bullockcp",
+        "surname": "Member",
+        "business_name": "Appstate Corp",
+        "email": "bullockcp@appstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Becky Eller",
+        "first_name": "Becky",
+        "surname": "Eller",
+        "business_name": "Trnty Corp",
+        "email": "becky.eller@trnty.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cskinner Member",
+        "first_name": "Cskinner",
+        "surname": "Member",
+        "business_name": "Uky Corp",
+        "email": "cskinner1@uky.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aemiller Member",
+        "first_name": "Aemiller",
+        "surname": "Member",
+        "business_name": "Bryantstratton Corp",
+        "email": "aemiller@bryantstratton.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Blewis Member",
+        "first_name": "Blewis",
+        "surname": "Member",
+        "business_name": "Cbu Corp",
+        "email": "blewis7@cbu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bhughes Member",
+        "first_name": "Bhughes",
+        "surname": "Member",
+        "business_name": "Saddleback Corp",
+        "email": "bhughes15@saddleback.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chris Nichols",
+        "first_name": "Chris",
+        "surname": "Nichols",
+        "business_name": "Mobap Corp",
+        "email": "chris.nichols@mobap.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ccallih Member",
+        "first_name": "Ccallih",
+        "surname": "Member",
+        "business_name": "Uwyo Corp",
+        "email": "ccallih1@uwyo.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bnd Member",
+        "first_name": "Bnd",
+        "surname": "Member",
+        "business_name": "Athletics Corp",
+        "email": "bnd@athletics.wisc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Christina Tran",
+        "first_name": "Christina",
+        "surname": "Tran",
+        "business_name": "Fresno Corp",
+        "email": "christina.tran@fresno.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amanda Huber",
+        "first_name": "Amanda",
+        "surname": "Huber",
+        "business_name": "Blc Corp",
+        "email": "amanda.huber@blc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Andawson Member",
+        "first_name": "Andawson",
+        "surname": "Member",
+        "business_name": "Bryantstratton Corp",
+        "email": "andawson@bryantstratton.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Carrisajones Member",
+        "first_name": "Carrisajones",
+        "surname": "Member",
+        "business_name": "Stfrancis Corp",
+        "email": "carrisajones@stfrancis.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bzamore Member",
+        "first_name": "Bzamore",
+        "surname": "Member",
+        "business_name": "Anselm Corp",
+        "email": "bzamore@anselm.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chad Hanson",
+        "first_name": "Chad",
+        "surname": "Hanson",
+        "business_name": "Dordt Corp",
+        "email": "chad.hanson@dordt.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Canelson Member",
+        "first_name": "Canelson",
+        "surname": "Member",
+        "business_name": "Roguecc Corp",
+        "email": "canelson@roguecc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Beam Member",
+        "first_name": "Beam",
+        "surname": "Member",
+        "business_name": "Oakland Corp",
+        "email": "beam@oakland.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Benjamin Brandon Boldt",
+        "first_name": "Benjamin",
+        "surname": "Brandon Boldt",
+        "business_name": "Gmail Corp",
+        "email": "benjamin.brandon.boldt@gmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bgonzal Member",
+        "first_name": "Bgonzal",
+        "surname": "Member",
+        "business_name": "Providence Corp",
+        "email": "bgonzal1@providence.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Billinad Member",
+        "first_name": "Billinad",
+        "surname": "Member",
+        "business_name": "Rio Corp",
+        "email": "billinad@rio.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cornelius Member",
+        "first_name": "Cornelius",
+        "surname": "Member",
+        "business_name": "Uamont Corp",
+        "email": "cornelius@uamont.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bfreebur Member",
+        "first_name": "Bfreebur",
+        "surname": "Member",
+        "business_name": "Uab Corp",
+        "email": "bfreebur@uab.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ak Member",
+        "first_name": "Ak",
+        "surname": "Member",
+        "business_name": "Columbia Corp",
+        "email": "ak4237@columbia.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bj Bryant",
+        "first_name": "Bj",
+        "surname": "Bryant",
+        "business_name": "Snc Corp",
+        "email": "bj.bryant@snc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ctianero Member",
+        "first_name": "Ctianero",
+        "surname": "Member",
+        "business_name": "Contracosta Corp",
+        "email": "ctianero@contracosta.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bjo Member",
+        "first_name": "Bjo",
+        "surname": "Member",
+        "business_name": "Students Corp",
+        "email": "bjo13@students.uwf.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Acooke Member",
+        "first_name": "Acooke",
+        "surname": "Member",
+        "business_name": "Bgsu Corp",
+        "email": "acooke@bgsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Carmichaelc Member",
+        "first_name": "Carmichaelc",
+        "surname": "Member",
+        "business_name": "Ecu Corp",
+        "email": "carmichaelc18@ecu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chris Feliciano",
+        "first_name": "Chris",
+        "surname": "Feliciano",
+        "business_name": "Unh Corp",
+        "email": "chris.feliciano@unh.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aparde Member",
+        "first_name": "Aparde",
+        "surname": "Member",
+        "business_name": "Nebrwesleyan Corp",
+        "email": "aparde3@nebrwesleyan.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Byale Member",
+        "first_name": "Byale",
+        "surname": "Member",
+        "business_name": "Tulane Corp",
+        "email": "byale@tulane.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Calaeb Campbell",
+        "first_name": "Calaeb",
+        "surname": "Campbell",
+        "business_name": "Ursuline Corp",
+        "email": "calaeb.campbell@ursuline.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Becca Member",
+        "first_name": "Becca",
+        "surname": "Member",
+        "business_name": "Umd Corp",
+        "email": "becca1@umd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Belen Albertos",
+        "first_name": "Belen",
+        "surname": "Albertos",
+        "business_name": "Mountmarty Corp",
+        "email": "belen.albertos@mountmarty.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cristina Robertson",
+        "first_name": "Cristina",
+        "surname": "Robertson",
+        "business_name": "Umbc Corp",
+        "email": "cristina.robertson@umbc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Baigraha Member",
+        "first_name": "Baigraha",
+        "surname": "Member",
+        "business_name": "Iu Corp",
+        "email": "baigraha@iu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chastings Member",
+        "first_name": "Chastings",
+        "surname": "Member",
+        "business_name": "Parkland Corp",
+        "email": "chastings@parkland.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clove Member",
+        "first_name": "Clove",
+        "surname": "Member",
+        "business_name": "Olympic Corp",
+        "email": "clove@olympic.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ckleespies Member",
+        "first_name": "Ckleespies",
+        "surname": "Member",
+        "business_name": "Harcum Corp",
+        "email": "ckleespies@harcum.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Crawfordc Member",
+        "first_name": "Crawfordc",
+        "surname": "Member",
+        "business_name": "Apsu Corp",
+        "email": "crawfordc@apsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aonipede Member",
+        "first_name": "Aonipede",
+        "surname": "Member",
+        "business_name": "Lee Corp",
+        "email": "aonipede@lee.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bkalulu Member",
+        "first_name": "Bkalulu",
+        "surname": "Member",
+        "business_name": "Csi Corp",
+        "email": "bkalulu@csi.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amugler Member",
+        "first_name": "Amugler",
+        "surname": "Member",
+        "business_name": "Murraystate Corp",
+        "email": "amugler@murraystate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clamb Member",
+        "first_name": "Clamb",
+        "surname": "Member",
+        "business_name": "Goshockers Corp",
+        "email": "clamb@goshockers.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Csoble Member",
+        "first_name": "Csoble",
+        "surname": "Member",
+        "business_name": "Ncwc Corp",
+        "email": "csoble@ncwc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Celarson Member",
+        "first_name": "Celarson",
+        "surname": "Member",
+        "business_name": "Bluecc Corp",
+        "email": "celarson@bluecc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Apicha Member",
+        "first_name": "Apicha",
+        "surname": "Member",
+        "business_name": "Gardner-webb Corp",
+        "email": "apicha@gardner-webb.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bear Grassl",
+        "first_name": "Bear",
+        "surname": "Grassl",
+        "business_name": "Sonoma Corp",
+        "email": "bear.grassl@sonoma.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Carly Wehling",
+        "first_name": "Carly",
+        "surname": "Wehling",
+        "business_name": "Uncp Corp",
+        "email": "carly.wehling@uncp.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Buckiusb Member",
+        "first_name": "Buckiusb",
+        "surname": "Member",
+        "business_name": "Etown Corp",
+        "email": "buckiusb@etown.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cscott Member",
+        "first_name": "Cscott",
+        "surname": "Member",
+        "business_name": "Goshockers Corp",
+        "email": "cscott@goshockers.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ardemurrell Member",
+        "first_name": "Ardemurrell",
+        "surname": "Member",
+        "business_name": "Wileyc Corp",
+        "email": "ardemurrell@wileyc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aldavis0 Member",
+        "first_name": "Aldavis0",
+        "surname": "Member",
+        "business_name": "My Corp",
+        "email": "aldavis079@my.pittcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brittany Sisk",
+        "first_name": "Brittany",
+        "surname": "Sisk",
+        "business_name": "Luther Corp",
+        "email": "brittany.sisk@luther.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bormi Member",
+        "first_name": "Bormi",
+        "surname": "Member",
+        "business_name": "Brockport Corp",
+        "email": "bormi1@brockport.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bxu Member",
+        "first_name": "Bxu",
+        "surname": "Member",
+        "business_name": "Emporia Corp",
+        "email": "bxu@emporia.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cjbraegelmann Member",
+        "first_name": "Cjbraegelmann",
+        "surname": "Member",
+        "business_name": "Stcloudstate Corp",
+        "email": "cjbraegelmann@stcloudstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cory Behm",
+        "first_name": "Cory",
+        "surname": "Behm",
+        "business_name": "Gallaudet Corp",
+        "email": "cory.behm@gallaudet.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aporh Member",
+        "first_name": "Aporh",
+        "surname": "Member",
+        "business_name": "Cod Corp",
+        "email": "aporh@cod.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brandoncrisp Member",
+        "first_name": "Brandoncrisp",
+        "surname": "Member",
+        "business_name": "Dcccd Corp",
+        "email": "brandoncrisp@dcccd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cgallemore Member",
+        "first_name": "Cgallemore",
+        "surname": "Member",
+        "business_name": "Bluefield Corp",
+        "email": "cgallemore@bluefield.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Boltzh Member",
+        "first_name": "Boltzh",
+        "surname": "Member",
+        "business_name": "Dyc Corp",
+        "email": "boltzh24@dyc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clittleman Member",
+        "first_name": "Clittleman",
+        "surname": "Member",
+        "business_name": "Highline Corp",
+        "email": "clittleman@highline.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Anna Howle",
+        "first_name": "Anna",
+        "surname": "Howle",
+        "business_name": "Okbu Corp",
+        "email": "anna.howle@okbu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cpuhalla Member",
+        "first_name": "Cpuhalla",
+        "surname": "Member",
+        "business_name": "Southeast Corp",
+        "email": "cpuhalla@southeast.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cleon Member",
+        "first_name": "Cleon",
+        "surname": "Member",
+        "business_name": "Hawaii Corp",
+        "email": "cleon8@hawaii.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cgriffit Member",
+        "first_name": "Cgriffit",
+        "surname": "Member",
+        "business_name": "Catawba Corp",
+        "email": "cgriffit21@catawba.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Csitler Member",
+        "first_name": "Csitler",
+        "surname": "Member",
+        "business_name": "Hbu Corp",
+        "email": "csitler@hbu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Calvin Jensen",
+        "first_name": "Calvin",
+        "surname": "Jensen",
+        "business_name": "Usu Corp",
+        "email": "calvin.jensen@usu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bambenea Member",
+        "first_name": "Bambenea",
+        "surname": "Member",
+        "business_name": "Ohiodominican Corp",
+        "email": "bambenea@ohiodominican.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amberwitherspoon Member",
+        "first_name": "Amberwitherspoon",
+        "surname": "Member",
+        "business_name": "Dbq Corp",
+        "email": "amberwitherspoon@dbq.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cahill Member",
+        "first_name": "Cahill",
+        "surname": "Member",
+        "business_name": "Chapman Corp",
+        "email": "cahill@chapman.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aumannr Member",
+        "first_name": "Aumannr",
+        "surname": "Member",
+        "business_name": "Bvu Corp",
+        "email": "aumannr@bvu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chrissy Elder",
+        "first_name": "Chrissy",
+        "surname": "Elder",
+        "business_name": "Uccs Corp",
+        "email": "chrissy.elder@uccs.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aw Member",
+        "first_name": "Aw",
+        "surname": "Member",
+        "business_name": "Hunter Corp",
+        "email": "aw1537@hunter.cuny.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aking Member",
+        "first_name": "Aking",
+        "surname": "Member",
+        "business_name": "Stetson Corp",
+        "email": "aking5@stetson.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Burdette Greeny",
+        "first_name": "Burdette",
+        "surname": "Greeny",
+        "business_name": "Wsu Corp",
+        "email": "burdette.greeny@wsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cherda0 Member",
+        "first_name": "Cherda0",
+        "surname": "Member",
+        "business_name": "Luther Corp",
+        "email": "cherda02@luther.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bkeller Member",
+        "first_name": "Bkeller",
+        "surname": "Member",
+        "business_name": "Usc Corp",
+        "email": "bkeller@usc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bkwallis Member",
+        "first_name": "Bkwallis",
+        "surname": "Member",
+        "business_name": "Utep Corp",
+        "email": "bkwallis@utep.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aeb Member",
+        "first_name": "Aeb",
+        "surname": "Member",
+        "business_name": "Stmarys-ca Corp",
+        "email": "aeb14@stmarys-ca.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Acd Member",
+        "first_name": "Acd",
+        "surname": "Member",
+        "business_name": "Cornell Corp",
+        "email": "acd225@cornell.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bsmith Member",
+        "first_name": "Bsmith",
+        "surname": "Member",
+        "business_name": "Millersville Corp",
+        "email": "bsmith1@millersville.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ashley Miller",
+        "first_name": "Ashley",
+        "surname": "Miller",
+        "business_name": "Iw Corp",
+        "email": "ashley.miller@iw.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Corey Phelps",
+        "first_name": "Corey",
+        "surname": "Phelps",
+        "business_name": "Mnsu Corp",
+        "email": "corey.phelps@mnsu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Awarren 0",
+        "first_name": "Awarren",
+        "surname": "0",
+        "business_name": "Fau Corp",
+        "email": "awarren2014@fau.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Austin Albers",
+        "first_name": "Austin",
+        "surname": "Albers",
+        "business_name": "Csupueblo Corp",
+        "email": "austin.albers@csupueblo.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Apnewman Member",
+        "first_name": "Apnewman",
+        "surname": "Member",
+        "business_name": "Ncat Corp",
+        "email": "apnewman@ncat.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aburchyett Member",
+        "first_name": "Aburchyett",
+        "surname": "Member",
+        "business_name": "Northwestms Corp",
+        "email": "aburchyett@northwestms.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aokika Member",
+        "first_name": "Aokika",
+        "surname": "Member",
+        "business_name": "Plu Corp",
+        "email": "aokika@plu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amy Beall",
+        "first_name": "Amy",
+        "surname": "Beall",
+        "business_name": "Stmary Corp",
+        "email": "amy.beall@stmary.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aphelps Member",
+        "first_name": "Aphelps",
+        "surname": "Member",
+        "business_name": "Nwmissouri Corp",
+        "email": "aphelps@nwmissouri.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Andy Mueller",
+        "first_name": "Andy",
+        "surname": "Mueller",
+        "business_name": "Liu Corp",
+        "email": "andy.mueller@liu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bnt Member",
+        "first_name": "Bnt",
+        "surname": "Member",
+        "business_name": "Msstate Corp",
+        "email": "bnt178@msstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amy Osborn",
+        "first_name": "Amy",
+        "surname": "Osborn",
+        "business_name": "Live Corp",
+        "email": "amy.osborn@live.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aperry Member",
+        "first_name": "Aperry",
+        "surname": "Member",
+        "business_name": "Fisher Corp",
+        "email": "aperry@fisher.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chelsey Albrecht",
+        "first_name": "Chelsey",
+        "surname": "Albrecht",
+        "business_name": "Presentation Corp",
+        "email": "chelsey.albrecht@presentation.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cory Taylor",
+        "first_name": "Cory",
+        "surname": "Taylor",
+        "business_name": "Cnu Corp",
+        "email": "cory.taylor@cnu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aleonard Member",
+        "first_name": "Aleonard",
+        "surname": "Member",
+        "business_name": "Csusm Corp",
+        "email": "aleonard@csusm.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Akramer Member",
+        "first_name": "Akramer",
+        "surname": "Member",
+        "business_name": "Carleton Corp",
+        "email": "akramer@carleton.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amclamb Member",
+        "first_name": "Amclamb",
+        "surname": "Member",
+        "business_name": "Odu Corp",
+        "email": "amclamb@odu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Barryg Member",
+        "first_name": "Barryg",
+        "surname": "Member",
+        "business_name": "American Corp",
+        "email": "barryg@american.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aoakes Member",
+        "first_name": "Aoakes",
+        "surname": "Member",
+        "business_name": "Bluefieldstate Corp",
+        "email": "aoakes@bluefieldstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Anna Graham",
+        "first_name": "Anna",
+        "surname": "Graham",
+        "business_name": "Blinn Corp",
+        "email": "anna.graham@blinn.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cwaddington Member",
+        "first_name": "Cwaddington",
+        "surname": "Member",
+        "business_name": "Angelo Corp",
+        "email": "cwaddington@angelo.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brandon K Chan",
+        "first_name": "Brandon",
+        "surname": "K Chan",
+        "business_name": "Dartmouth Corp",
+        "email": "brandon.k.chan@dartmouth.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bawilkerson Member",
+        "first_name": "Bawilkerson",
+        "surname": "Member",
+        "business_name": "Lc Corp",
+        "email": "bawilkerson@lc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alamberson Member",
+        "first_name": "Alamberson",
+        "surname": "Member",
+        "business_name": "Marymountcalifornia Corp",
+        "email": "alamberson@marymountcalifornia.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Christyj Member",
+        "first_name": "Christyj",
+        "surname": "Member",
+        "business_name": "Iastate Corp",
+        "email": "christyj@iastate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bracchbm Member",
+        "first_name": "Bracchbm",
+        "surname": "Member",
+        "business_name": "Delhi Corp",
+        "email": "bracchbm@delhi.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chwillis Member",
+        "first_name": "Chwillis",
+        "surname": "Member",
+        "business_name": "Davidson Corp",
+        "email": "chwillis@davidson.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Acrimes Member",
+        "first_name": "Acrimes",
+        "surname": "Member",
+        "business_name": "Calstatela Corp",
+        "email": "acrimes@calstatela.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bri Frech",
+        "first_name": "Bri",
+        "surname": "Frech",
+        "business_name": "Colostate Corp",
+        "email": "bri.frech@colostate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chinan Member",
+        "first_name": "Chinan",
+        "surname": "Member",
+        "business_name": "Earlham Corp",
+        "email": "chinan@earlham.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brstephe Member",
+        "first_name": "Brstephe",
+        "surname": "Member",
+        "business_name": "Cameron Corp",
+        "email": "brstephe@cameron.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ask Ld",
+        "first_name": "Ask",
+        "surname": "Ld",
+        "business_name": "Sulross Corp",
+        "email": "ask16ld@sulross.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aaron Hedland",
+        "first_name": "Aaron",
+        "surname": "Hedland",
+        "business_name": "Vcccd Corp",
+        "email": "aaron_hedland1@vcccd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Betendler Member",
+        "first_name": "Betendler",
+        "surname": "Member",
+        "business_name": "Ncat Corp",
+        "email": "betendler@ncat.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amy Bomar",
+        "first_name": "Amy",
+        "surname": "Bomar",
+        "business_name": "Converse Corp",
+        "email": "amy.bomar@converse.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Beathen Thomas",
+        "first_name": "Beathen",
+        "surname": "Thomas",
+        "business_name": "Ubc Corp",
+        "email": "beathen.thomas@ubc.ca",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Barea Member",
+        "first_name": "Barea",
+        "surname": "Member",
+        "business_name": "Uwp Corp",
+        "email": "barea@uwp.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Apolk Member",
+        "first_name": "Apolk",
+        "surname": "Member",
+        "business_name": "Washjeff Corp",
+        "email": "apolk@washjeff.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chantale Riddle",
+        "first_name": "Chantale",
+        "surname": "Riddle",
+        "business_name": "Gcccks Corp",
+        "email": "chantale.riddle@gcccks.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Allisonbuck Member",
+        "first_name": "Allisonbuck",
+        "surname": "Member",
+        "business_name": "Boisestate Corp",
+        "email": "allisonbuck@boisestate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Carey Jones",
+        "first_name": "Carey",
+        "surname": "Jones",
+        "business_name": "Colbycc Corp",
+        "email": "carey.jones@colbycc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amcgahan Member",
+        "first_name": "Amcgahan",
+        "surname": "Member",
+        "business_name": "Fitchburgstate Corp",
+        "email": "amcgahan@fitchburgstate.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bbastuba Member",
+        "first_name": "Bbastuba",
+        "surname": "Member",
+        "business_name": "Usi Corp",
+        "email": "bbastuba@usi.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Betsi Flint",
+        "first_name": "Betsi",
+        "surname": "Flint",
+        "business_name": "Lmu Corp",
+        "email": "betsi.flint@lmu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cdcarter Member",
+        "first_name": "Cdcarter",
+        "surname": "Member",
+        "business_name": "Dcccd Corp",
+        "email": "cdcarter@dcccd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chelsea Reilley",
+        "first_name": "Chelsea",
+        "surname": "Reilley",
+        "business_name": "Napavalley Corp",
+        "email": "chelsea.reilley@napavalley.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Arosser Member",
+        "first_name": "Arosser",
+        "surname": "Member",
+        "business_name": "Cfcc Corp",
+        "email": "arosser@cfcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aemanuel Member",
+        "first_name": "Aemanuel",
+        "surname": "Member",
+        "business_name": "Fisk Corp",
+        "email": "aemanuel@fisk.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bstall Member",
+        "first_name": "Bstall",
+        "surname": "Member",
+        "business_name": "Sdccd Corp",
+        "email": "bstall@sdccd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abbey Wehrman",
+        "first_name": "Abbey",
+        "surname": "Wehrman",
+        "business_name": "Ojc Corp",
+        "email": "abbey.wehrman@ojc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Atrinitykemp Member",
+        "first_name": "Atrinitykemp",
+        "surname": "Member",
+        "business_name": "Agnesscott Corp",
+        "email": "atrinitykemp@agnesscott.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bria Reasoner",
+        "first_name": "Bria",
+        "surname": "Reasoner",
+        "business_name": "Raritanval Corp",
+        "email": "bria.reasoner@raritanval.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alexis Carson",
+        "first_name": "Alexis",
+        "surname": "Carson",
+        "business_name": "Sw Corp",
+        "email": "alexis.carson@sw.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aratnikova0 Member",
+        "first_name": "Aratnikova0",
+        "surname": "Member",
+        "business_name": "Gmail Corp",
+        "email": "aratnikova07@gmail.com",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abullard Member",
+        "first_name": "Abullard",
+        "surname": "Member",
+        "business_name": "Nctc Corp",
+        "email": "abullard@nctc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Angieoxley Member",
+        "first_name": "Angieoxley",
+        "surname": "Member",
+        "business_name": "Creighton Corp",
+        "email": "angieoxley@creighton.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Casey Stein",
+        "first_name": "Casey",
+        "surname": "Stein",
+        "business_name": "Emu Corp",
+        "email": "casey.stein@emu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Chaire Member",
+        "first_name": "Chaire",
+        "surname": "Member",
+        "business_name": "Ivytech Corp",
+        "email": "chaire3@ivytech.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Coomesj Member",
+        "first_name": "Coomesj",
+        "surname": "Member",
+        "business_name": "Lindsey Corp",
+        "email": "coomesj@lindsey.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Awenzel Member",
+        "first_name": "Awenzel",
+        "surname": "Member",
+        "business_name": "Brockport Corp",
+        "email": "awenzel@brockport.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aorozco Member",
+        "first_name": "Aorozco",
+        "surname": "Member",
+        "business_name": "Usao Corp",
+        "email": "aorozco@usao.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Changj Member",
+        "first_name": "Changj",
+        "surname": "Member",
+        "business_name": "Felician Corp",
+        "email": "changj@felician.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clamarch Member",
+        "first_name": "Clamarch",
+        "surname": "Member",
+        "business_name": "Clarkson Corp",
+        "email": "clamarch@clarkson.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Courtneyw Member",
+        "first_name": "Courtneyw",
+        "surname": "Member",
+        "business_name": "Etbu Corp",
+        "email": "courtneyw@etbu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Amccray Member",
+        "first_name": "Amccray",
+        "surname": "Member",
+        "business_name": "Latech Corp",
+        "email": "amccray@latech.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Criecks Member",
+        "first_name": "Criecks",
+        "surname": "Member",
+        "business_name": "Pacific Corp",
+        "email": "criecks@pacific.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aberry Member",
+        "first_name": "Aberry",
+        "surname": "Member",
+        "business_name": "Caldwell Corp",
+        "email": "aberry@caldwell.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Coxrl Member",
+        "first_name": "Coxrl",
+        "surname": "Member",
+        "business_name": "Mlc-wels Corp",
+        "email": "coxrl@mlc-wels.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Beichnlm0 Member",
+        "first_name": "Beichnlm0",
+        "surname": "Member",
+        "business_name": "Sunyjcc Corp",
+        "email": "beichnlm01@sunyjcc.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Allison Lawrence",
+        "first_name": "Allison",
+        "surname": "Lawrence",
+        "business_name": "Mso Corp",
+        "email": "allison.lawrence@mso.umt.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ammartinez Member",
+        "first_name": "Ammartinez",
+        "surname": "Member",
+        "business_name": "Miners Corp",
+        "email": "ammartinez5@miners.utep.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alexander Gordon",
+        "first_name": "Alexander",
+        "surname": "Gordon",
+        "business_name": "Minotstateu Corp",
+        "email": "alexander.gordon.1@minotstateu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Crcarlin Member",
+        "first_name": "Crcarlin",
+        "surname": "Member",
+        "business_name": "Uncg Corp",
+        "email": "crcarlin@uncg.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cristie Brothers",
+        "first_name": "Cristie",
+        "surname": "Brothers",
+        "business_name": "Snead Corp",
+        "email": "cristie.brothers@snead.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Blyans Member",
+        "first_name": "Blyans",
+        "surname": "Member",
+        "business_name": "Vcccd Corp",
+        "email": "blyans@vcccd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bri Ebenhoe",
+        "first_name": "Bri",
+        "surname": "Ebenhoe",
+        "business_name": "Waldorf Corp",
+        "email": "bri.ebenhoe@waldorf.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Csweat Member",
+        "first_name": "Csweat",
+        "surname": "Member",
+        "business_name": "Fgcu Corp",
+        "email": "csweat@fgcu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Clk Member",
+        "first_name": "Clk",
+        "surname": "Member",
+        "business_name": "Williams Corp",
+        "email": "clk1@williams.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ashley Steffan",
+        "first_name": "Ashley",
+        "surname": "Steffan",
+        "business_name": "Und Corp",
+        "email": "ashley.steffan@und.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bmcclain Member",
+        "first_name": "Bmcclain",
+        "surname": "Member",
+        "business_name": "Madonna Corp",
+        "email": "bmcclain@madonna.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aleake Member",
+        "first_name": "Aleake",
+        "surname": "Member",
+        "business_name": "Bethelks Corp",
+        "email": "aleake@bethelks.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bkwilmeth Member",
+        "first_name": "Bkwilmeth",
+        "surname": "Member",
+        "business_name": "Unwsp Corp",
+        "email": "bkwilmeth@unwsp.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brooke Callahan Daywalt",
+        "first_name": "Brooke",
+        "surname": "Callahan Daywalt",
+        "business_name": "Gcccd Corp",
+        "email": "brooke.callahan-daywalt@gcccd.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Christopher Weathers",
+        "first_name": "Christopher",
+        "surname": "Weathers",
+        "business_name": "Shu Corp",
+        "email": "christopher.weathers@shu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bsato Member",
+        "first_name": "Bsato",
+        "surname": "Member",
+        "business_name": "Pdx Corp",
+        "email": "bsato@pdx.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bkiffmeyer Member",
+        "first_name": "Bkiffmeyer",
+        "surname": "Member",
+        "business_name": "Carleton Corp",
+        "email": "bkiffmeyer@carleton.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Craigdyer Member",
+        "first_name": "Craigdyer",
+        "surname": "Member",
+        "business_name": "Creighton Corp",
+        "email": "craigdyer@creighton.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Alfalcon Member",
+        "first_name": "Alfalcon",
+        "surname": "Member",
+        "business_name": "Iu Corp",
+        "email": "alfalcon@iu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Barbarol Member",
+        "first_name": "Barbarol",
+        "surname": "Member",
+        "business_name": "Southernct Corp",
+        "email": "barbarol1@southernct.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Ashley Coyle",
+        "first_name": "Ashley",
+        "surname": "Coyle",
+        "business_name": "Oneonta Corp",
+        "email": "ashley.coyle@oneonta.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brian Thornton",
+        "first_name": "Brian",
+        "surname": "Thornton",
+        "business_name": "Lmu Corp",
+        "email": "brian.thornton@lmu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Abbey Troy",
+        "first_name": "Abbey",
+        "surname": "Troy",
+        "business_name": "Sac Corp",
+        "email": "abbey_troy@sac.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Brow Member",
+        "first_name": "Brow",
+        "surname": "Member",
+        "business_name": "Sports Corp",
+        "email": "brow@sports.uga.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Aweber Member",
+        "first_name": "Aweber",
+        "surname": "Member",
+        "business_name": "Tusculum Corp",
+        "email": "aweber@tusculum.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bertty Member",
+        "first_name": "Bertty",
+        "surname": "Member",
+        "business_name": "Stu Corp",
+        "email": "bertty@stu.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Bganes Member",
+        "first_name": "Bganes",
+        "surname": "Member",
+        "business_name": "Temple Corp",
+        "email": "bganes@temple.edu",
+        "tag": "CSV Import"
+    },
+    {
+        "name": "Cenolan Member",
+        "first_name": "Cenolan",
+        "surname": "Member",
+        "business_name": "Central Corp",
+        "email": "cenolan@central.uh.edu",
+        "tag": "CSV Import"
     }
 ]
