@@ -15,9 +15,13 @@ on:
         description: 'Header Banner Graphic Link (.webp/.jpg — 1200x630px recommended)'
         required: true
         default: 'https://celsiusmediagroup.co.za/assets/banner.webp'
+      header_image_click_url:
+        description: 'Banner Click Destination URL (Where users go when clicking the image)'
+        required: false
+        default: 'https://www.celsiustechmediagroup.co.za'
       email_body_text:
         description: 'Main Body Text Content (Use <br> for line breaks, basic HTML tags supported)'
-        required: true
+        required: false
         default: 'We are pleased to announce the successful calibration of our decentralized serverless infrastructure array. The distribution nodes are fully synchronized.'
       target_segment_tag:
         description: 'Target Filter Tag Group (Matches contact list tags)'
@@ -57,6 +61,7 @@ jobs:
         CAMPAIGN_SUBJECT: ${{ github.event.inputs.email_subject }}
         CAMPAIGN_PREVIEW: ${{ github.event.inputs.preview_text }}
         CAMPAIGN_IMAGE: ${{ github.event.inputs.header_image_url }}
+        CAMPAIGN_IMAGE_LINK: ${{ github.event.inputs.header_image_click_url }}
         CAMPAIGN_BODY: ${{ github.event.inputs.email_body_text }}
         TARGET_TAG: ${{ github.event.inputs.target_segment_tag }}
         LINK_FB: ${{ github.event.inputs.facebook_link }}
